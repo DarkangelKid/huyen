@@ -1,0 +1,147 @@
+Exopalaemon carinicauda Holthuis, 1950
+Metapenaeus ensis (de Haan, 1844)
+Parapenaeopsis tenella (Bate, 1888)
+Penaeus monodon (Fabricius, 1798)
+Acetes japonicus Kishinouye, 1905
+Acetes sp.
+Episesarma versicolor (Tweedie, 1940)
+Metaplax dentipes Chopra & Das, 1937
+Sesarma dehaani H.Milner - Edwards, 1853
+Sesarma plicata (Latreille, 1806)
+Nanosesarma batavicum (Moreira, 1903)
+Metopograpsus quadridentatus Stimpson, 1858
+Metopograpsus latifrons (White. 1847)
+Phylira heterograna Ortmann,1892
+Phylira globulosa
+Macrophthalmus definitus Adams & White, 1849
+Macrophthalmus erato De Man, 1887
+Macrophthalmus pacificus Dana, 1851
+Uca borealis Crane, 1975
+Ilyoplax ningpoensis Shen,1940
+Scopimera  tuberculata Stimpson, 1858
+Paracleistostoma depressum De Man, 1895
+Tmethypocoelis ceratophora (Koelbel, 1897)
+Calappa philargius (Linnaeus, 1758)
+Charybdis anisodon (de Haan, 1850)
+Portunus trituberculatus (Miers, 1876)
+Portunus sanguinolentus (Herbst, 1783)
+Scylla serrata Forskal, 1755
+Carinosquilla multicarinata (White, 1848)
+Oratosquilla oratoria (de Haan, 1844)
+Oratosquillina gravieri (Manning, 1978)
+Clithon sp.
+Neritina cornucopia Sowerby, 1832
+Neritina comunis (Quoy & Gaimard, 1832)
+Batillaria sp.
+Cerithidea cingulata (Gmeliin, 1790)
+Cerithidea djadjariensis (Martin, 1899)
+Telebralia sulcata (Born, 1778)
+Telebralia sp.
+Littoraria scabra (Linnaeus, 1758)
+Littoraria undulata (Gray, 1839)
+Assiminea lutea Adams, 1861
+Erato sp.
+Mammilla sp.
+Tanea sp.
+Buforaria rana (Linnaeus, 1758)
+Chicoreus brunneus (Link, 1807)
+Chicoreus capucinus (Lamark, 1822)
+Thais sp.
+Nassarius festivus (Powys, 1935)
+Zeuxis scalaris (A.Adams, 1852)
+Hemifusus crassicaudus (Philippi, 1848)
+Hemifusus tuba (Gmelin, 1781)
+Cassidula mustelina (Deshayes, 1830)
+Ellobium aurisjudae (Linnaeus, 1758)
+Melampus cristatus Pfeiffer, 1855
+Melanoides turberculatus (Muller, 1774)
+Anadara antiquata Linneaus, 1758
+Anadara subcrenata (Lienschke, 1869)
+Modiolus vaginus (Lamarck, 1819)
+Perna viridis (Linnaeus, 1758)
+Mytilus smaragdinus Chemnitz, 1785
+Barnea candida (Linnaeus, 1758)
+Bankia sauli (Wright, 1866)
+Isognomon ephippium (Linnaeus, 1758)
+Crassostrea rivularis (Gould 1861)
+Saccostrea cacullata (Born, 1778)
+Anomia chinensis Philippi, 1849
+Placuna placenta Linnaeus, 1758
+Eamesiella corrugata (Deshayes, 1855)
+Trapezium oblongum (Linnaeus, 1758)
+Dosinia japonica Reeve, 1856
+Sosinia nobilis Deshayes, 1853
+Gomphina aequilatera (Sowerby, 1825)
+Meretrix lusoria (Roding, 1798)
+Paphia lirata (Philippi, 1847)
+Paphia calophylla (Philippi, 1836)
+Mactra luzonica Reeve, 1854
+Mactra quadrangularis (Reeve, 1854)
+Psammotacea togata (Deshayes, 1855)
+Semele crenulata (Sowerby, 1966)
+Macroma incongrua (Martens, 1865)
+Tellina jedoensis Lischke, 1872
+Tellina rugosa Born, 1780
+Tellinides timorensis (Lamarck, 1818)
+Azorinus abbreviatus (Gould, 1861)
+Pharella javanica (Lamarck, 1818)
+Solen arcuatus Tchang & Hwang, 1964)
+Solen grandis (Dunker, 1861)
+Geloina coaxans (Gmelin, 1791)
+Austriella corrugata (Deshayes, 1843)
+Parapenaeopsis sculptilis (Heller, 1862)
+Penaeus semisulcatus (de Hann, 1850)
+Episesarma chengtongense (Ser. & Soh., 1967)
+Ocypode stimpsoni Ortmann, 1897
+Uca arcuta (Stimpson, 1858)
+Ilyoplax orientalis(De Man, 1888)
+Ilyoplax formosensis Rathbun, 1921
+Captandrium elongatumRathbun, 1931
+Paracleistostoma cristaum De Man, 1895
+Matuta lunaris Alcock, 1896
+Scylla paramamosain Estampador, 1949
+Anchisquilla fasciata (de Haan, 1844)
+Prionospio pinnata Ehlers, 1901
+Clithon retropicta (v. Martens, 1879)
+Cerithium subscalatum Pilsbry, 1904
+Littoraria melanostoma (Gray, 1839)
+Assiminea brevicula (Pfeiffer,1854)
+Melampus sincaporensis Pfeiffer, 1855
+Modiolus philippinarum (Hanley, 1843)
+Xenostrobus atrata (Lischke, 1871)
+Mytilus smaragdinus Chemnitz, 1785
+Teredo manni (Wright, 1866)
+Isognomon ephippium (Linnaeus, 1758)
+Saccostrea glomerata (Gould, 1850)
+Enignomia aenigmatica (Holten, 1803)
+Trapezium sublaevigatum (Lamarck, 1819)
+Cyclina sinensis (Gmelin, 1791)
+Dosinia laminata (Reeve, 1850)
+Merisca capsoides (Lamarck, 1818)
+Sinonovacula constricta (Lamarck, 1818)
+Onuphis sp.
+Littoraria sp.
+Ellobium chinensis (Pfeiffer, 1854)
+Anadara cornea (Reeve, 1844)
+Anadara granosa (Linnaeus, 1758)
+Sanguinolaria diphos (Linnaeus, 1771)
+Glaucomya chinensis Gray, 1901
+Solen gouldi (Conrad, 1867)
+Alpheus malabaricus Fabricius 1775
+Metapenaeus affinis (Milne - Edwards, 1837)
+Nanosesarma minuta (De Man) 1887
+Macrophthalmus dilatatus
+Ocypode ceratophthalmus (Pallas, 1772)
+Baruna trigranulum(Dai & Song, 1986)
+Charybdis affinis Dana, 1852
+Squilla nepa (Latreille, 1828)
+Lutjanus johnii (Bloch, 1792)
+Clithon corona (Linnaeus, 1758)
+Pliarcularia pullus (Linneaus, 1758)
+Zeuxis dorsatus (Roding, 1798)
+Nitidotellina minuta (Lischke, 1877)
+Metapenaeus joyneri (Miers, 1880)
+Parapenaeopsis hardwicklii (Miers, 1878)
+Eriocheir sinensis H.Milne - Edwards, 1853
+Metaplax longipes
+Uca flammula Crane, 1975

@@ -1,0 +1,4598 @@
+[
+  {
+    "ID": 866,
+    "Ten": "",
+    "TenKhoaHoc": "Cyclotella comta (Ehrenberg) Kützing, 1849",
+    "ChiID": 0
+  },
+  {
+    "ID": 863,
+    "Ten": "",
+    "TenKhoaHoc": "Corycaeus erythraeus Cleve, 1904",
+    "ChiID": 0
+  },
+  {
+    "ID": 864,
+    "Ten": "",
+    "TenKhoaHoc": "Thermocyclops taihokuensis (Harada,1931)",
+    "ChiID": 0
+  },
+  {
+    "ID": 865,
+    "Ten": "",
+    "TenKhoaHoc": "Tortanus forcipatus Giesbrecht, 1889",
+    "ChiID": 0
+  },
+  {
+    "ID": 862,
+    "Ten": "",
+    "TenKhoaHoc": "Diaptomus sp.",
+    "ChiID": 0
+  },
+  {
+    "ID": 860,
+    "Ten": "",
+    "TenKhoaHoc": "Allodiaptomus gladiolus Shen et Lee, 1963",
+    "ChiID": 0
+  },
+  {
+    "ID": 861,
+    "Ten": "",
+    "TenKhoaHoc": "Nitzschia closterium (Ehrenberg) W. Smith, 1853",
+    "ChiID": 0
+  },
+  {
+    "ID": 859,
+    "Ten": "",
+    "TenKhoaHoc": "Calanopia minor Scott A., 1902",
+    "ChiID": 0
+  },
+  {
+    "ID": 857,
+    "Ten": "",
+    "TenKhoaHoc": "Oithona attenuata Farran, 1913",
+    "ChiID": 0
+  },
+  {
+    "ID": 858,
+    "Ten": "",
+    "TenKhoaHoc": "Thermocyclops minutus (Lowndes, 1934)",
+    "ChiID": 0
+  },
+  {
+    "ID": 856,
+    "Ten": "",
+    "TenKhoaHoc": "Corycaeus andrewsi Farran, 1911",
+    "ChiID": 0
+  },
+  {
+    "ID": 854,
+    "Ten": "",
+    "TenKhoaHoc": "Oithona fallax Farran, 1913",
+    "ChiID": 0
+  },
+  {
+    "ID": 855,
+    "Ten": "",
+    "TenKhoaHoc": "Lucicutia grandis (Giesbrecht, 1895)",
+    "ChiID": 0
+  },
+  {
+    "ID": 853,
+    "Ten": "",
+    "TenKhoaHoc": "Fragilaria virescens Rafls., 1843",
+    "ChiID": 0
+  },
+  {
+    "ID": 849,
+    "Ten": "",
+    "TenKhoaHoc": "Pontellopsis yamadae Mori, 1937",
+    "ChiID": 0
+  },
+  {
+    "ID": 850,
+    "Ten": "",
+    "TenKhoaHoc": "Allodiaptomus pectinidactylus Shen et Tai, 1964",
+    "ChiID": 0
+  },
+  {
+    "ID": 851,
+    "Ten": "",
+    "TenKhoaHoc": "Tropocyclops prasinus (Fischer, 1860)",
+    "ChiID": 0
+  },
+  {
+    "ID": 852,
+    "Ten": "",
+    "TenKhoaHoc": "Corycaeus agilis Dana, 1849 ",
+    "ChiID": 0
+  },
+  {
+    "ID": 845,
+    "Ten": "",
+    "TenKhoaHoc": "Oscillatoria limosa J. Ag.",
+    "ChiID": 0
+  },
+  {
+    "ID": 846,
+    "Ten": "",
+    "TenKhoaHoc": "Labidocera euchaeta Giesbrecht, 1889",
+    "ChiID": 0
+  },
+  {
+    "ID": 847,
+    "Ten": "",
+    "TenKhoaHoc": "Navicula placentula (Ehrenberg) Kützing, 1844",
+    "ChiID": 0
+  },
+  {
+    "ID": 848,
+    "Ten": "",
+    "TenKhoaHoc": "Acrocalanus gracilis Giesbrecht, 1888",
+    "ChiID": 0
+  },
+  {
+    "ID": 844,
+    "Ten": "",
+    "TenKhoaHoc": "Corycaeus longistylus Dana, 1849",
+    "ChiID": 0
+  },
+  {
+    "ID": 842,
+    "Ten": "",
+    "TenKhoaHoc": "Eucyclops serrulatus (Fischer, 1851)",
+    "ChiID": 0
+  },
+  {
+    "ID": 843,
+    "Ten": "",
+    "TenKhoaHoc": "Nitzschia seriata Cl., 1883",
+    "ChiID": 0
+  },
+  {
+    "ID": 837,
+    "Ten": "",
+    "TenKhoaHoc": "Candacia pectinata Brady, 1878",
+    "ChiID": 0
+  },
+  {
+    "ID": 838,
+    "Ten": "",
+    "TenKhoaHoc": "Labidocera pavo Giesbrecht, 1889",
+    "ChiID": 0
+  },
+  {
+    "ID": 839,
+    "Ten": "",
+    "TenKhoaHoc": "Heliodiaptomus serratus Shen et Tai, 1962",
+    "ChiID": 0
+  },
+  {
+    "ID": 836,
+    "Ten": "",
+    "TenKhoaHoc": "Oithona plumifera Baird, 1843",
+    "ChiID": 0
+  },
+  {
+    "ID": 835,
+    "Ten": "",
+    "TenKhoaHoc": "Oncaea sp.",
+    "ChiID": 0
+  },
+  {
+    "ID": 834,
+    "Ten": "",
+    "TenKhoaHoc": "Calanopia elliptica A. Scott, 1902",
+    "ChiID": 0
+  },
+  {
+    "ID": 841,
+    "Ten": "",
+    "TenKhoaHoc": "Pontella chierchiae Giesbrecht, 1889",
+    "ChiID": 0
+  },
+  {
+    "ID": 830,
+    "Ten": "",
+    "TenKhoaHoc": "Calocalanus plumulosus (Claus, 1863)",
+    "ChiID": 0
+  },
+  {
+    "ID": 831,
+    "Ten": "",
+    "TenKhoaHoc": "Oithona aruensis Früchtl, 1923",
+    "ChiID": 0
+  },
+  {
+    "ID": 832,
+    "Ten": "",
+    "TenKhoaHoc": "Staurastrum gracile  Ralfs ex Ralfs, 1848",
+    "ChiID": 0
+  },
+  {
+    "ID": 833,
+    "Ten": "",
+    "TenKhoaHoc": "Corycaeus gibbulus Giesbrecht, 1891",
+    "ChiID": 0
+  },
+  {
+    "ID": 827,
+    "Ten": "",
+    "TenKhoaHoc": "Mongolodiaptomus formosanus Kiefer, 1937",
+    "ChiID": 0
+  },
+  {
+    "ID": 828,
+    "Ten": "",
+    "TenKhoaHoc": "Cymbella turmida  (Brébisson) van Heurck, 1880",
+    "ChiID": 0
+  },
+  {
+    "ID": 824,
+    "Ten": "",
+    "TenKhoaHoc": "Stella gracilis Dana, 1847",
+    "ChiID": 0
+  },
+  {
+    "ID": 825,
+    "Ten": "",
+    "TenKhoaHoc": "Undinula vulgaris (Dana, 1849)",
+    "ChiID": 0
+  },
+  {
+    "ID": 826,
+    "Ten": "",
+    "TenKhoaHoc": "Eodiaptomus draconisignivomi Brehm, 1952",
+    "ChiID": 0
+  },
+  {
+    "ID": 829,
+    "Ten": "Cỏ chân nhện",
+    "TenKhoaHoc": "Digitaria ciliaris (Retz.) Koell.",
+    "ChiID": 0
+  },
+  {
+    "ID": 822,
+    "Ten": "Bách sao",
+    "TenKhoaHoc": "Myoporum bontioides A.Gray",
+    "ChiID": 0
+  },
+  {
+    "ID": 821,
+    "Ten": "",
+    "TenKhoaHoc": "Thermocyclops hyalinus (Rehberg, 1880)",
+    "ChiID": 0
+  },
+  {
+    "ID": 819,
+    "Ten": "",
+    "TenKhoaHoc": "Oithona simplex Farran, 1913",
+    "ChiID": 0
+  },
+  {
+    "ID": 818,
+    "Ten": "",
+    "TenKhoaHoc": "Aetideus sp.",
+    "ChiID": 0
+  },
+  {
+    "ID": 823,
+    "Ten": "",
+    "TenKhoaHoc": "Acartia danae Giesbrecht, 1889",
+    "ChiID": 0
+  },
+  {
+    "ID": 840,
+    "Ten": "",
+    "TenKhoaHoc": "Schmackeria curvilobata Dang, 1967",
+    "ChiID": 0
+  },
+  {
+    "ID": 820,
+    "Ten": "",
+    "TenKhoaHoc": "Ceratium strictum Kof.",
+    "ChiID": 0
+  },
+  {
+    "ID": 817,
+    "Ten": "",
+    "TenKhoaHoc": "Pediastrum simplex  Lemm. var. simplex",
+    "ChiID": 0
+  },
+  {
+    "ID": 814,
+    "Ten": "Sậy",
+    "TenKhoaHoc": "Phragmites vallatoria (L.) Veldkamp",
+    "ChiID": 0
+  },
+  {
+    "ID": 815,
+    "Ten": "",
+    "TenKhoaHoc": "Neodiaptomus handeli (Brehm, 1921)",
+    "ChiID": 0
+  },
+  {
+    "ID": 816,
+    "Ten": "",
+    "TenKhoaHoc": "Limnoithona sinensis (Burckhardt, 1912)",
+    "ChiID": 0
+  },
+  {
+    "ID": 811,
+    "Ten": "",
+    "TenKhoaHoc": "Actinoptychus triglingulatus A. Schmidt in Schmidt et al., 1874",
+    "ChiID": 0
+  },
+  {
+    "ID": 810,
+    "Ten": "",
+    "TenKhoaHoc": "Centropages dorsispinatus Thompson IC & Scott A., 1903",
+    "ChiID": 0
+  },
+  {
+    "ID": 808,
+    "Ten": "",
+    "TenKhoaHoc": "Scolecithricella longispinosa Chen & Zhang, 1965",
+    "ChiID": 0
+  },
+  {
+    "ID": 809,
+    "Ten": "",
+    "TenKhoaHoc": "Eucyclops speratus (Lilljeborg, 1901)",
+    "ChiID": 0
+  },
+  {
+    "ID": 807,
+    "Ten": "Dừa nước",
+    "TenKhoaHoc": "Nypa fruticans Wurmb",
+    "ChiID": 0
+  },
+  {
+    "ID": 812,
+    "Ten": "Xu ổi",
+    "TenKhoaHoc": "Xylocarpus granatum Koen",
+    "ChiID": 0
+  },
+  {
+    "ID": 813,
+    "Ten": "",
+    "TenKhoaHoc": "Schmackeria sp.",
+    "ChiID": 0
+  },
+  {
+    "ID": 805,
+    "Ten": "",
+    "TenKhoaHoc": "Schmackeria spatulata Shen et Tai, 1964",
+    "ChiID": 0
+  },
+  {
+    "ID": 806,
+    "Ten": "Mắm quăn",
+    "TenKhoaHoc": "Avicennia lantana Ridley",
+    "ChiID": 0
+  },
+  {
+    "ID": 795,
+    "Ten": "",
+    "TenKhoaHoc": "Lucicutia ovalis (Giesbrecht, 1889)",
+    "ChiID": 0
+  },
+  {
+    "ID": 796,
+    "Ten": "",
+    "TenKhoaHoc": "Centropages orsini Giesbrecht, 1889",
+    "ChiID": 0
+  },
+  {
+    "ID": 791,
+    "Ten": "",
+    "TenKhoaHoc": "Temora turbinata (Dana, 1849)",
+    "ChiID": 0
+  },
+  {
+    "ID": 789,
+    "Ten": "",
+    "TenKhoaHoc": "Synedra acus Kuetz",
+    "ChiID": 0
+  },
+  {
+    "ID": 802,
+    "Ten": "",
+    "TenKhoaHoc": "Oithona rigida Giesbrecht, 1896",
+    "ChiID": 0
+  },
+  {
+    "ID": 803,
+    "Ten": "Vẹt trụ, vẹt khang",
+    "TenKhoaHoc": "Bruguiera cylindrica (L.) Blume",
+    "ChiID": 0
+  },
+  {
+    "ID": 786,
+    "Ten": "",
+    "TenKhoaHoc": "Nitzschia pungens Grunow ex Cleve, 1897",
+    "ChiID": 0
+  },
+  {
+    "ID": 787,
+    "Ten": "",
+    "TenKhoaHoc": "Labidocera minuta Giesbrecht, 1889",
+    "ChiID": 0
+  },
+  {
+    "ID": 788,
+    "Ten": "Lác gọn",
+    "TenKhoaHoc": "Cyperus tegetiformis Roxb.",
+    "ChiID": 0
+  },
+  {
+    "ID": 792,
+    "Ten": "Xạ tử biển, cỏ cậy",
+    "TenKhoaHoc": "Sporobolus virginicus (L.) Kunth",
+    "ChiID": 0
+  },
+  {
+    "ID": 785,
+    "Ten": "Củ gấu biển",
+    "TenKhoaHoc": "Cyperus stoloniferus Retz.",
+    "ChiID": 0
+  },
+  {
+    "ID": 782,
+    "Ten": "",
+    "TenKhoaHoc": "Chaetomorpha indica (Kützing) Kützing, 1849",
+    "ChiID": 0
+  },
+  {
+    "ID": 790,
+    "Ten": "",
+    "TenKhoaHoc": "Pseudodiaptomus marinus Sato, 1913",
+    "ChiID": 0
+  },
+  {
+    "ID": 799,
+    "Ten": "",
+    "TenKhoaHoc": "Ceratium breve Schroder.",
+    "ChiID": 0
+  },
+  {
+    "ID": 801,
+    "Ten": "",
+    "TenKhoaHoc": "Canthocalanus pauper (Giesbrecht, 1888)",
+    "ChiID": 0
+  },
+  {
+    "ID": 781,
+    "Ten": "",
+    "TenKhoaHoc": "Biddulphia sinensis Greville, 1866",
+    "ChiID": 0
+  },
+  {
+    "ID": 775,
+    "Ten": "",
+    "TenKhoaHoc": "Microsetella norvegica (Boeck, 1846)",
+    "ChiID": 0
+  },
+  {
+    "ID": 777,
+    "Ten": "",
+    "TenKhoaHoc": "Chaetoceros pelagicus Cleve",
+    "ChiID": 0
+  },
+  {
+    "ID": 804,
+    "Ten": "",
+    "TenKhoaHoc": "Schmackeria bulbosa Shen et Tai, 1964",
+    "ChiID": 0
+  },
+  {
+    "ID": 798,
+    "Ten": "Cỏ lục lông",
+    "TenKhoaHoc": "Chloris barbata Sw.",
+    "ChiID": 0
+  },
+  {
+    "ID": 774,
+    "Ten": "Năng đỏ tía",
+    "TenKhoaHoc": "Eleocharis atropurpurea Kunth.",
+    "ChiID": 0
+  },
+  {
+    "ID": 770,
+    "Ten": "",
+    "TenKhoaHoc": "Aetideus armatus (Boeck, 1872)",
+    "ChiID": 0
+  },
+  {
+    "ID": 771,
+    "Ten": "",
+    "TenKhoaHoc": "Temora turbinata Wolfenden , 1911",
+    "ChiID": 0
+  },
+  {
+    "ID": 784,
+    "Ten": "",
+    "TenKhoaHoc": "Corycaeus agilis Dana, 1849",
+    "ChiID": 0
+  },
+  {
+    "ID": 797,
+    "Ten": "",
+    "TenKhoaHoc": "Ectocyclops phaleratus (Koch, 1838)",
+    "ChiID": 0
+  },
+  {
+    "ID": 773,
+    "Ten": "",
+    "TenKhoaHoc": "Oithona nana Giesbrecht, 1893",
+    "ChiID": 0
+  },
+  {
+    "ID": 768,
+    "Ten": "",
+    "TenKhoaHoc": "Neodiaptomus yangtsekiangensis Mashiko, 1951",
+    "ChiID": 0
+  },
+  {
+    "ID": 769,
+    "Ten": "",
+    "TenKhoaHoc": "Acrocalanus gibber Giesbrecht, 1888",
+    "ChiID": 0
+  },
+  {
+    "ID": 766,
+    "Ten": "",
+    "TenKhoaHoc": "Clausocalanus furcatus (Brady, 1883)",
+    "ChiID": 0
+  },
+  {
+    "ID": 800,
+    "Ten": "",
+    "TenKhoaHoc": "Conchoecissa imbricata (Brady, 1880)",
+    "ChiID": 0
+  },
+  {
+    "ID": 780,
+    "Ten": "Mắm biển",
+    "TenKhoaHoc": "Avicennia marina (Forssk.) Vierh.",
+    "ChiID": 0
+  },
+  {
+    "ID": 763,
+    "Ten": "",
+    "TenKhoaHoc": "Chaetoceros contrictus  Gran, 1897",
+    "ChiID": 0
+  },
+  {
+    "ID": 765,
+    "Ten": "",
+    "TenKhoaHoc": "Euchaeta concinna Dana, 1849",
+    "ChiID": 0
+  },
+  {
+    "ID": 760,
+    "Ten": "",
+    "TenKhoaHoc": "Pseudodiaptomus bulbiferus (Rose, 1957)",
+    "ChiID": 0
+  },
+  {
+    "ID": 761,
+    "Ten": "",
+    "TenKhoaHoc": "Labidocera detruncata (Dana, 1849)",
+    "ChiID": 0
+  },
+  {
+    "ID": 762,
+    "Ten": "Cỏ chông",
+    "TenKhoaHoc": "Spinifex litteus (Burm.f.) Merr.",
+    "ChiID": 0
+  },
+  {
+    "ID": 767,
+    "Ten": "",
+    "TenKhoaHoc": "Acartia sp.",
+    "ChiID": 0
+  },
+  {
+    "ID": 758,
+    "Ten": "",
+    "TenKhoaHoc": "Oithona tenuis Rosendorn, 1917",
+    "ChiID": 0
+  },
+  {
+    "ID": 779,
+    "Ten": "",
+    "TenKhoaHoc": "Tropocyclops sp.",
+    "ChiID": 0
+  },
+  {
+    "ID": 756,
+    "Ten": "",
+    "TenKhoaHoc": "Scenedesmus bijugatus var. alternans (Reinsch) Hang",
+    "ChiID": 0
+  },
+  {
+    "ID": 759,
+    "Ten": "",
+    "TenKhoaHoc": "Paracalanus aculeatus Giesbrecht, 1888",
+    "ChiID": 0
+  },
+  {
+    "ID": 754,
+    "Ten": "",
+    "TenKhoaHoc": "Euchaeta sp.",
+    "ChiID": 0
+  },
+  {
+    "ID": 755,
+    "Ten": "",
+    "TenKhoaHoc": "Schmackeria speciosa Dang, 1967",
+    "ChiID": 0
+  },
+  {
+    "ID": 778,
+    "Ten": "",
+    "TenKhoaHoc": "Corycaeus asiaticus Dahl F., 1894",
+    "ChiID": 0
+  },
+  {
+    "ID": 776,
+    "Ten": "",
+    "TenKhoaHoc": "Acartia discaudata (Giesbrecht, 1882)",
+    "ChiID": 0
+  },
+  {
+    "ID": 753,
+    "Ten": "",
+    "TenKhoaHoc": "Tortanus derjugini Smirnov, 1935",
+    "ChiID": 0
+  },
+  {
+    "ID": 757,
+    "Ten": "",
+    "TenKhoaHoc": "Corycaeus dahli Tanaka, 1957",
+    "ChiID": 0
+  },
+  {
+    "ID": 794,
+    "Ten": "",
+    "TenKhoaHoc": "Centropages sinensis Chen & Zhang, 1965",
+    "ChiID": 0
+  },
+  {
+    "ID": 752,
+    "Ten": "",
+    "TenKhoaHoc": "Acartia erythraea Giesbrecht, 1889",
+    "ChiID": 0
+  },
+  {
+    "ID": 750,
+    "Ten": "",
+    "TenKhoaHoc": "Calanopia thompsoni Scott A., 1909",
+    "ChiID": 0
+  },
+  {
+    "ID": 751,
+    "Ten": "Cỏ năn",
+    "TenKhoaHoc": "Eleocharis dulcis (Burm.f.) Hensel.",
+    "ChiID": 0
+  },
+  {
+    "ID": 748,
+    "Ten": "Cỏ ngạn",
+    "TenKhoaHoc": "Scirpus kimsonensis K. Khoi",
+    "ChiID": 0
+  },
+  {
+    "ID": 772,
+    "Ten": "",
+    "TenKhoaHoc": "Candacia truncata (Dana, 1849)",
+    "ChiID": 0
+  },
+  {
+    "ID": 749,
+    "Ten": "",
+    "TenKhoaHoc": "Sinocalanus laevidactylus Shen et Tai, 1964",
+    "ChiID": 0
+  },
+  {
+    "ID": 746,
+    "Ten": "",
+    "TenKhoaHoc": "Cyclotella kuetzingina Thwaites, 1848",
+    "ChiID": 0
+  },
+  {
+    "ID": 742,
+    "Ten": "",
+    "TenKhoaHoc": "Centropages tenuiremis Thompson & Scott, 1903",
+    "ChiID": 0
+  },
+  {
+    "ID": 743,
+    "Ten": "",
+    "TenKhoaHoc": "Oncaea venusta Philippi, 1843",
+    "ChiID": 0
+  },
+  {
+    "ID": 744,
+    "Ten": "Cỏ san sát",
+    "TenKhoaHoc": "Paspalum vaginatum  Sw.",
+    "ChiID": 0
+  },
+  {
+    "ID": 740,
+    "Ten": "Cỏ gà",
+    "TenKhoaHoc": "Cynodon dactylon (L.) Pers.",
+    "ChiID": 0
+  },
+  {
+    "ID": 741,
+    "Ten": "",
+    "TenKhoaHoc": "Vietodiaptomus hatinhensis Dang, 1977",
+    "ChiID": 0
+  },
+  {
+    "ID": 783,
+    "Ten": "",
+    "TenKhoaHoc": "Acartia pacifica Steuer, 1915",
+    "ChiID": 0
+  },
+  {
+    "ID": 736,
+    "Ten": "",
+    "TenKhoaHoc": "Euchaeta longicornis Giesbrecht, 1888",
+    "ChiID": 0
+  },
+  {
+    "ID": 739,
+    "Ten": "",
+    "TenKhoaHoc": "Corycaeus sp.",
+    "ChiID": 0
+  },
+  {
+    "ID": 764,
+    "Ten": "",
+    "TenKhoaHoc": "Centropages gracilis (Dana, 1849)",
+    "ChiID": 0
+  },
+  {
+    "ID": 738,
+    "Ten": "Mây nước",
+    "TenKhoaHoc": "Flagellaria indica L. var. minor Hook.",
+    "ChiID": 0
+  },
+  {
+    "ID": 745,
+    "Ten": "Khúc tần",
+    "TenKhoaHoc": "Pluchea indica (L.) Less.",
+    "ChiID": 0
+  },
+  {
+    "ID": 735,
+    "Ten": "",
+    "TenKhoaHoc": "Oithona sp.",
+    "ChiID": 0
+  },
+  {
+    "ID": 733,
+    "Ten": "Sú đỏ",
+    "TenKhoaHoc": "Aegiceras floridum Roeem. Et Schult",
+    "ChiID": 0
+  },
+  {
+    "ID": 734,
+    "Ten": "",
+    "TenKhoaHoc": "Labidocera biinnata Tanaka, 1936",
+    "ChiID": 0
+  },
+  {
+    "ID": 731,
+    "Ten": "",
+    "TenKhoaHoc": "Pontellina plumata (Dana, 1849)",
+    "ChiID": 0
+  },
+  {
+    "ID": 737,
+    "Ten": "Móc mèo",
+    "TenKhoaHoc": "Caesalpinia bonduc (L.) Roxb.",
+    "ChiID": 0
+  },
+  {
+    "ID": 732,
+    "Ten": "",
+    "TenKhoaHoc": "Eurytemora pacifica Sato, 1913",
+    "ChiID": 0
+  },
+  {
+    "ID": 729,
+    "Ten": "San nước",
+    "TenKhoaHoc": "Paspalum paspaloides (Michx.) Scribn.",
+    "ChiID": 0
+  },
+  {
+    "ID": 730,
+    "Ten": "",
+    "TenKhoaHoc": "Merismopedia punctata Meyen, 1839",
+    "ChiID": 0
+  },
+  {
+    "ID": 727,
+    "Ten": "Giá",
+    "TenKhoaHoc": "Excoecaria agallocha L.",
+    "ChiID": 0
+  },
+  {
+    "ID": 726,
+    "Ten": "",
+    "TenKhoaHoc": "Lucicutia flavicornis (Claus, 1863)",
+    "ChiID": 0
+  },
+  {
+    "ID": 793,
+    "Ten": "",
+    "TenKhoaHoc": "Biddulphia regia  (Schultze) Ostenfeld, 1908",
+    "ChiID": 0
+  },
+  {
+    "ID": 728,
+    "Ten": "",
+    "TenKhoaHoc": "Calocalanus pavo (Dana, 1852)",
+    "ChiID": 0
+  },
+  {
+    "ID": 723,
+    "Ten": "",
+    "TenKhoaHoc": "Rhizosolenia alata Brightwell (1858)",
+    "ChiID": 0
+  },
+  {
+    "ID": 724,
+    "Ten": "",
+    "TenKhoaHoc": "Sinocalanus mystrophorus Burckhardt, 1913",
+    "ChiID": 0
+  },
+  {
+    "ID": 725,
+    "Ten": "",
+    "TenKhoaHoc": "Navicula pusilla var. lanceolata Grunow in Cleve & Grunow, 1880",
+    "ChiID": 0
+  },
+  {
+    "ID": 722,
+    "Ten": "",
+    "TenKhoaHoc": "Melosira dubia Kutz., 1844",
+    "ChiID": 0
+  },
+  {
+    "ID": 720,
+    "Ten": "",
+    "TenKhoaHoc": "Calocalanus styliremis Giesbrecht, 1888",
+    "ChiID": 0
+  },
+  {
+    "ID": 721,
+    "Ten": "Dứa dại bắc bộ",
+    "TenKhoaHoc": "Pandanus tonkinensis Martinez ex B. Stone",
+    "ChiID": 0
+  },
+  {
+    "ID": 717,
+    "Ten": "",
+    "TenKhoaHoc": "Sinocalanus tenellus (Kikuchi, 1928)",
+    "ChiID": 0
+  },
+  {
+    "ID": 718,
+    "Ten": "",
+    "TenKhoaHoc": "Spirulina tenuissima Kuetz.",
+    "ChiID": 0
+  },
+  {
+    "ID": 719,
+    "Ten": "Ngọc nữ biển",
+    "TenKhoaHoc": "Clerodendrum inerme (L.) Gaertn.",
+    "ChiID": 0
+  },
+  {
+    "ID": 716,
+    "Ten": "Lác lá ngắn",
+    "TenKhoaHoc": "Cyperus malaccensis Lam.",
+    "ChiID": 0
+  },
+  {
+    "ID": 711,
+    "Ten": "",
+    "TenKhoaHoc": "Schmackeria gordioides Brehm, 1952",
+    "ChiID": 0
+  },
+  {
+    "ID": 714,
+    "Ten": "Năn phù",
+    "TenKhoaHoc": "Eleocharis congesta R. Br.",
+    "ChiID": 0
+  },
+  {
+    "ID": 715,
+    "Ten": "Cói lông chia đôi",
+    "TenKhoaHoc": "Fimbristylis dichotoma (L.) Vahl.",
+    "ChiID": 0
+  },
+  {
+    "ID": 710,
+    "Ten": "",
+    "TenKhoaHoc": "Avicennia marina var. intermedia (Griff.) Bakh.",
+    "ChiID": 0
+  },
+  {
+    "ID": 708,
+    "Ten": "",
+    "TenKhoaHoc": "Chaetomorpha linum (O. F. Müller) Kützing, 1845",
+    "ChiID": 0
+  },
+  {
+    "ID": 713,
+    "Ten": "Náng",
+    "TenKhoaHoc": "Crinum asiaticum L.",
+    "ChiID": 0
+  },
+  {
+    "ID": 707,
+    "Ten": "Bần chua",
+    "TenKhoaHoc": "Sonneratia caseolaris (L.) Engl.",
+    "ChiID": 0
+  },
+  {
+    "ID": 705,
+    "Ten": "",
+    "TenKhoaHoc": "Climacodium frauenfeldinum Grunow",
+    "ChiID": 0
+  },
+  {
+    "ID": 709,
+    "Ten": "",
+    "TenKhoaHoc": "Nitzschia sigma (Kützing) W. Smith, 1853",
+    "ChiID": 0
+  },
+  {
+    "ID": 712,
+    "Ten": "",
+    "TenKhoaHoc": "Eucampia zoodiacus Ehr., 1839",
+    "ChiID": 0
+  },
+  {
+    "ID": 747,
+    "Ten": "",
+    "TenKhoaHoc": "Enteromorpha clathrata (Roth) Greville.",
+    "ChiID": 0
+  },
+  {
+    "ID": 706,
+    "Ten": "Trang",
+    "TenKhoaHoc": "Kandelia obovata Sheue, Liu & Yong",
+    "ChiID": 0
+  },
+  {
+    "ID": 703,
+    "Ten": "",
+    "TenKhoaHoc": "Paracyclops fimbriatus (Fischer, 1853)",
+    "ChiID": 0
+  },
+  {
+    "ID": 704,
+    "Ten": "Cui biển",
+    "TenKhoaHoc": "Heritiera littoralis Dryand.",
+    "ChiID": 0
+  },
+  {
+    "ID": 702,
+    "Ten": "",
+    "TenKhoaHoc": "Centropages furcatus (Dana, 1849)",
+    "ChiID": 0
+  },
+  {
+    "ID": 700,
+    "Ten": "Cói bông nâu",
+    "TenKhoaHoc": "Cyperus corymbosus Rottb.",
+    "ChiID": 0
+  },
+  {
+    "ID": 701,
+    "Ten": "",
+    "TenKhoaHoc": "Clausocalanus arcuicornis (Dana, 1849)",
+    "ChiID": 0
+  },
+  {
+    "ID": 696,
+    "Ten": "",
+    "TenKhoaHoc": "Gyrosigma acuminatum var. lacustre  (W. Smith) Cleve-Euler, 1952",
+    "ChiID": 0
+  },
+  {
+    "ID": 697,
+    "Ten": "Mắm",
+    "TenKhoaHoc": "Avicennia officinalis L.",
+    "ChiID": 0
+  },
+  {
+    "ID": 698,
+    "Ten": "Dứa dại biển",
+    "TenKhoaHoc": "Pandanus odoratissimus L. f.",
+    "ChiID": 0
+  },
+  {
+    "ID": 699,
+    "Ten": "",
+    "TenKhoaHoc": "Nitzschia longissima  (Brébisson) Ralfs in Pritchard, 1861",
+    "ChiID": 0
+  },
+  {
+    "ID": 694,
+    "Ten": "",
+    "TenKhoaHoc": "Planktoniella sol (Wallich) Schütt, 1892",
+    "ChiID": 0
+  },
+  {
+    "ID": 693,
+    "Ten": "Côi",
+    "TenKhoaHoc": "Scyphyphora hydrophyllacea Gaertn.",
+    "ChiID": 0
+  },
+  {
+    "ID": 689,
+    "Ten": "Vọng cách",
+    "TenKhoaHoc": "Premna serratifolia L.",
+    "ChiID": 0
+  },
+  {
+    "ID": 690,
+    "Ten": "",
+    "TenKhoaHoc": "Chaetoceros crinitus F. Schütt, 1895",
+    "ChiID": 0
+  },
+  {
+    "ID": 691,
+    "Ten": "Đâng, Đước vòi",
+    "TenKhoaHoc": "Rhizophora stylosa Griff.",
+    "ChiID": 0
+  },
+  {
+    "ID": 692,
+    "Ten": "Cói lông bóng",
+    "TenKhoaHoc": "Fimbristylis lasiophylla Kern",
+    "ChiID": 0
+  },
+  {
+    "ID": 695,
+    "Ten": "",
+    "TenKhoaHoc": "Rhizosolenia delicatula Cleve, 1900",
+    "ChiID": 0
+  },
+  {
+    "ID": 687,
+    "Ten": "Vẹt dù, vẹt rễ lồi",
+    "TenKhoaHoc": "Bruguiera gymnorrhiza (L.) Lam.",
+    "ChiID": 0
+  },
+  {
+    "ID": 684,
+    "Ten": "Đưng, Đước bộp",
+    "TenKhoaHoc": "Rhizophora mucronata Poir. in Lam.",
+    "ChiID": 0
+  },
+  {
+    "ID": 688,
+    "Ten": "Cà độc dược",
+    "TenKhoaHoc": "Datura metel L.",
+    "ChiID": 0
+  },
+  {
+    "ID": 683,
+    "Ten": "Dà vôi, dà nở, nét",
+    "TenKhoaHoc": "Ceriops tagal (Perr.) C.B.Rob.",
+    "ChiID": 0
+  },
+  {
+    "ID": 685,
+    "Ten": "Quả nổ",
+    "TenKhoaHoc": "Ruellia tuberosa L.",
+    "ChiID": 0
+  },
+  {
+    "ID": 680,
+    "Ten": "",
+    "TenKhoaHoc": "Avicennia marina var. rumphiana Bakh.",
+    "ChiID": 0
+  },
+  {
+    "ID": 679,
+    "Ten": "Bần trắng",
+    "TenKhoaHoc": "Sonneratia alba J.E.Sm.",
+    "ChiID": 0
+  },
+  {
+    "ID": 682,
+    "Ten": "Cỏ mần trầu",
+    "TenKhoaHoc": "Eleusine indica (L.) Geartn.",
+    "ChiID": 0
+  },
+  {
+    "ID": 686,
+    "Ten": "Mắm trắng",
+    "TenKhoaHoc": "Avicennia alba Blume",
+    "ChiID": 0
+  },
+  {
+    "ID": 681,
+    "Ten": "Lói lông nhiều",
+    "TenKhoaHoc": "Fimbristylis polytrioides (Retz.) R. Br.",
+    "ChiID": 0
+  },
+  {
+    "ID": 677,
+    "Ten": "Cỏ gấu đất cát",
+    "TenKhoaHoc": "Cyperus radians Nees. & Mey.",
+    "ChiID": 0
+  },
+  {
+    "ID": 678,
+    "Ten": "Đước, Đước đôi",
+    "TenKhoaHoc": "Rhizophora apiculata Blume",
+    "ChiID": 0
+  },
+  {
+    "ID": 675,
+    "Ten": "Trang",
+    "TenKhoaHoc": "Kandelia candel (L.) Druce",
+    "ChiID": 0
+  },
+  {
+    "ID": 674,
+    "Ten": "Sú",
+    "TenKhoaHoc": "Aegiceras corniculatum (L.) Blanco",
+    "ChiID": 0
+  },
+  {
+    "ID": 673,
+    "Ten": "Hếp",
+    "TenKhoaHoc": "Scaevola taccada (Gaertn.) Roxb.",
+    "ChiID": 0
+  },
+  {
+    "ID": 676,
+    "Ten": "Tra biển, Tra lâm vồ",
+    "TenKhoaHoc": "Thespesia populnea (L.) Sol. ex Correa",
+    "ChiID": 0
+  },
+  {
+    "ID": 672,
+    "Ten": "Xu mê kông",
+    "TenKhoaHoc": "Xylocarpus mekongensis (Lam.) Pierre",
+    "ChiID": 0
+  },
+  {
+    "ID": 654,
+    "Ten": "Tôm gõ mõ",
+    "TenKhoaHoc": "Alpheus crassimanus Heller, 1865",
+    "ChiID": 198
+  },
+  {
+    "ID": 653,
+    "Ten": "",
+    "TenKhoaHoc": "Lyngbya aestuarii Liebm",
+    "ChiID": 0
+  },
+  {
+    "ID": 652,
+    "Ten": "",
+    "TenKhoaHoc": "Merismopedia elegans A.Braun ex Kützing, 1849",
+    "ChiID": 0
+  },
+  {
+    "ID": 651,
+    "Ten": "",
+    "TenKhoaHoc": "Trachelomonas cylindrical Ehrenberg, 1838",
+    "ChiID": 0
+  },
+  {
+    "ID": 650,
+    "Ten": "",
+    "TenKhoaHoc": "Dinophysis tripos Gourret, 1883",
+    "ChiID": 0
+  },
+  {
+    "ID": 649,
+    "Ten": "",
+    "TenKhoaHoc": "Dinophysis homunculi Stein, 1883",
+    "ChiID": 0
+  },
+  {
+    "ID": 648,
+    "Ten": "",
+    "TenKhoaHoc": "Peridinium diabolus Cleve, 1900",
+    "ChiID": 0
+  },
+  {
+    "ID": 647,
+    "Ten": "",
+    "TenKhoaHoc": "Peridinium pellucidum  (Bergh) Schütt, 1895",
+    "ChiID": 0
+  },
+  {
+    "ID": 646,
+    "Ten": "",
+    "TenKhoaHoc": "Ceratium tripos (O. F.) Muller.",
+    "ChiID": 0
+  },
+  {
+    "ID": 645,
+    "Ten": "",
+    "TenKhoaHoc": "Ceratium teres Jof.",
+    "ChiID": 0
+  },
+  {
+    "ID": 644,
+    "Ten": "",
+    "TenKhoaHoc": "Ceratium pentagonum Karsten",
+    "ChiID": 0
+  },
+  {
+    "ID": 643,
+    "Ten": "",
+    "TenKhoaHoc": "Ceratium arietinum Cleve",
+    "ChiID": 0
+  },
+  {
+    "ID": 642,
+    "Ten": "",
+    "TenKhoaHoc": "Enteromorpha ralfsii Harvey.",
+    "ChiID": 0
+  },
+  {
+    "ID": 641,
+    "Ten": "",
+    "TenKhoaHoc": "Enteromorpha intestinalis link",
+    "ChiID": 0
+  },
+  {
+    "ID": 640,
+    "Ten": "",
+    "TenKhoaHoc": "Cladophora laetevirens Kutz.",
+    "ChiID": 0
+  },
+  {
+    "ID": 639,
+    "Ten": "",
+    "TenKhoaHoc": "Rhizoclonium sp.",
+    "ChiID": 0
+  },
+  {
+    "ID": 638,
+    "Ten": "",
+    "TenKhoaHoc": "Rhizoclonium kerneri Stockmayer, 1890",
+    "ChiID": 0
+  },
+  {
+    "ID": 636,
+    "Ten": "",
+    "TenKhoaHoc": "Chaetomorpha capillaris (Kützing) Børgesen, 1925",
+    "ChiID": 0
+  },
+  {
+    "ID": 635,
+    "Ten": "",
+    "TenKhoaHoc": "Oedogonium crispum (Hassall) Wittrock, 1874",
+    "ChiID": 0
+  },
+  {
+    "ID": 634,
+    "Ten": "",
+    "TenKhoaHoc": "Spirogyra decimina  (O. F. Müller) Dumortier, 1822",
+    "ChiID": 0
+  },
+  {
+    "ID": 633,
+    "Ten": "",
+    "TenKhoaHoc": "Crucigenia tetrapedia (Kirchner) Kuntze, 1898",
+    "ChiID": 0
+  },
+  {
+    "ID": 632,
+    "Ten": "",
+    "TenKhoaHoc": "Lagerheimia chodati Bernard",
+    "ChiID": 0
+  },
+  {
+    "ID": 631,
+    "Ten": "",
+    "TenKhoaHoc": "Pediastrum simplex var. duodenarium  Rabenh",
+    "ChiID": 0
+  },
+  {
+    "ID": 630,
+    "Ten": "",
+    "TenKhoaHoc": "Pediastrum duplex Meyen var. duplex",
+    "ChiID": 0
+  },
+  {
+    "ID": 629,
+    "Ten": "",
+    "TenKhoaHoc": "Actinastrum hantzchii Lagerh.",
+    "ChiID": 0
+  },
+  {
+    "ID": 628,
+    "Ten": "",
+    "TenKhoaHoc": "Kirchneriella obesa (West) Sch. var. obese",
+    "ChiID": 0
+  },
+  {
+    "ID": 627,
+    "Ten": "",
+    "TenKhoaHoc": "Scenedesmus bijugatus (Turp.) Kuet. var. bijugatus",
+    "ChiID": 0
+  },
+  {
+    "ID": 626,
+    "Ten": "",
+    "TenKhoaHoc": "Scenedesmus bicaudatus var. bicaudatus Hort.",
+    "ChiID": 0
+  },
+  {
+    "ID": 625,
+    "Ten": "",
+    "TenKhoaHoc": "Surirella tenera var. nervosa Hust.",
+    "ChiID": 0
+  },
+  {
+    "ID": 624,
+    "Ten": "",
+    "TenKhoaHoc": "Surirella capronii Brébisson ex F.Kitton",
+    "ChiID": 0
+  },
+  {
+    "ID": 623,
+    "Ten": "",
+    "TenKhoaHoc": "Surirella biseriata Brébisson in Brébisson & Godey, 1835",
+    "ChiID": 0
+  },
+  {
+    "ID": 622,
+    "Ten": "",
+    "TenKhoaHoc": "Campilodiscus biangulatus Greville, 1862",
+    "ChiID": 0
+  },
+  {
+    "ID": 621,
+    "Ten": "",
+    "TenKhoaHoc": "Nitzschia sublinearis Hust., 1930",
+    "ChiID": 0
+  },
+  {
+    "ID": 620,
+    "Ten": "",
+    "TenKhoaHoc": "Nitzschia paradoxa (J. F. Gmelin) Grunow in Cleve & Grunow, 1880",
+    "ChiID": 0
+  },
+  {
+    "ID": 619,
+    "Ten": "",
+    "TenKhoaHoc": "Nitzschia panduriformis W. Gregory, 1857",
+    "ChiID": 0
+  },
+  {
+    "ID": 618,
+    "Ten": "",
+    "TenKhoaHoc": "Nitzschia ovalis H. J. Arnott 1880",
+    "ChiID": 0
+  },
+  {
+    "ID": 617,
+    "Ten": "",
+    "TenKhoaHoc": "Nitzschia obtusa W. Smith, 1853",
+    "ChiID": 0
+  },
+  {
+    "ID": 616,
+    "Ten": "",
+    "TenKhoaHoc": "Nitzschia lorenzziana Grunow in Cleve & Möller, 1879",
+    "ChiID": 0
+  },
+  {
+    "ID": 615,
+    "Ten": "",
+    "TenKhoaHoc": "Nitzschia acicularis (Kützing) W. Smith, 1853",
+    "ChiID": 0
+  },
+  {
+    "ID": 614,
+    "Ten": "",
+    "TenKhoaHoc": "Pleurosigma salinarum (Grunow) Grunow in Cleve & Grunow, 1880",
+    "ChiID": 0
+  },
+  {
+    "ID": 613,
+    "Ten": "",
+    "TenKhoaHoc": "Pinnularia borealis Ehrenb., 1843",
+    "ChiID": 0
+  },
+  {
+    "ID": 612,
+    "Ten": "",
+    "TenKhoaHoc": "Navicula hasta Pant., 1892",
+    "ChiID": 0
+  },
+  {
+    "ID": 611,
+    "Ten": "",
+    "TenKhoaHoc": "Navicula elegans W. Sm., 1853",
+    "ChiID": 0
+  },
+  {
+    "ID": 610,
+    "Ten": "",
+    "TenKhoaHoc": "Navicula cancellata Donkin, 1872",
+    "ChiID": 0
+  },
+  {
+    "ID": 609,
+    "Ten": "",
+    "TenKhoaHoc": "Gyrosigma spenceri  (W. Smith) Griffith & Henfrey, 1856",
+    "ChiID": 0
+  },
+  {
+    "ID": 608,
+    "Ten": "",
+    "TenKhoaHoc": "Gyrosigma scalproides var. eximium (Thwaites) P.T. Cleve, 1894",
+    "ChiID": 0
+  },
+  {
+    "ID": 607,
+    "Ten": "",
+    "TenKhoaHoc": "Gyrosigma distortum (W. Sm.) Cl.",
+    "ChiID": 0
+  },
+  {
+    "ID": 606,
+    "Ten": "",
+    "TenKhoaHoc": "Gyrosigma balticum (Ehrenberg) Rabenhorst, 1853",
+    "ChiID": 0
+  },
+  {
+    "ID": 605,
+    "Ten": "",
+    "TenKhoaHoc": "Cymbella lata Grunow ex Cleve, 1894",
+    "ChiID": 0
+  },
+  {
+    "ID": 604,
+    "Ten": "",
+    "TenKhoaHoc": "Cymbella lanceolata (C. Agardh) Kirchner, 1878",
+    "ChiID": 0
+  },
+  {
+    "ID": 603,
+    "Ten": "",
+    "TenKhoaHoc": "Amphipora alata (Ehrenb.) Kutz",
+    "ChiID": 0
+  },
+  {
+    "ID": 602,
+    "Ten": "",
+    "TenKhoaHoc": "Cocconeis placentula var. euglypta (Ehrenb.) Grunow (1884)",
+    "ChiID": 0
+  },
+  {
+    "ID": 601,
+    "Ten": "",
+    "TenKhoaHoc": "Thalassiothrix longissima Cleve et Grunow, 1880",
+    "ChiID": 0
+  },
+  {
+    "ID": 600,
+    "Ten": "",
+    "TenKhoaHoc": "Thalassiothrix frauenfeldii Cleve et Grun, 1880",
+    "ChiID": 0
+  },
+  {
+    "ID": 599,
+    "Ten": "",
+    "TenKhoaHoc": "Thalassionema nitzschiades  (Grunow) Mereschkowsky, 1902",
+    "ChiID": 0
+  },
+  {
+    "ID": 598,
+    "Ten": "",
+    "TenKhoaHoc": "Synedra utermoehlii Hust., 1932",
+    "ChiID": 0
+  },
+  {
+    "ID": 597,
+    "Ten": "",
+    "TenKhoaHoc": "Synedra ulna  (Nitzsch) Ehrenberg, 1832",
+    "ChiID": 0
+  },
+  {
+    "ID": 596,
+    "Ten": "",
+    "TenKhoaHoc": "Synedra tabulata (Agadi) Kuetz.",
+    "ChiID": 0
+  },
+  {
+    "ID": 595,
+    "Ten": "",
+    "TenKhoaHoc": "Fragilaria capucina Desm., 1825",
+    "ChiID": 0
+  },
+  {
+    "ID": 594,
+    "Ten": "",
+    "TenKhoaHoc": "Fragilaria bicapitata A. Mayer, 1917",
+    "ChiID": 0
+  },
+  {
+    "ID": 593,
+    "Ten": "",
+    "TenKhoaHoc": "Asterionella japonica Cleve in Cleve & Möller, 1882",
+    "ChiID": 0
+  },
+  {
+    "ID": 592,
+    "Ten": "",
+    "TenKhoaHoc": "Eucampia cornuta (Cleve) Grunow in Van Heurck, 1883",
+    "ChiID": 0
+  },
+  {
+    "ID": 591,
+    "Ten": "",
+    "TenKhoaHoc": "Climacodium biconcavum  Cleve, 1897",
+    "ChiID": 0
+  },
+  {
+    "ID": 590,
+    "Ten": "",
+    "TenKhoaHoc": "Streptotheca thamesis Shrubsole",
+    "ChiID": 0
+  },
+  {
+    "ID": 589,
+    "Ten": "",
+    "TenKhoaHoc": "Ditylum sol Cleve, 1900",
+    "ChiID": 0
+  },
+  {
+    "ID": 588,
+    "Ten": "",
+    "TenKhoaHoc": "Biddulphia pulchella Gray, 1821",
+    "ChiID": 0
+  },
+  {
+    "ID": 587,
+    "Ten": "",
+    "TenKhoaHoc": "Biddulphia mobiliensis  (J. W. Bailey) Grunow, 1882",
+    "ChiID": 0
+  },
+  {
+    "ID": 586,
+    "Ten": "",
+    "TenKhoaHoc": "Biddulphia laevis Ehr.",
+    "ChiID": 0
+  },
+  {
+    "ID": 585,
+    "Ten": "",
+    "TenKhoaHoc": "Attheya zachariasii Brun, 1894",
+    "ChiID": 0
+  },
+  {
+    "ID": 584,
+    "Ten": "",
+    "TenKhoaHoc": "Chaetoceros weissflogii F. Schütt, 1905",
+    "ChiID": 0
+  },
+  {
+    "ID": 583,
+    "Ten": "",
+    "TenKhoaHoc": "Chaetoceros subtilis Cleve, 1896",
+    "ChiID": 0
+  },
+  {
+    "ID": 582,
+    "Ten": "",
+    "TenKhoaHoc": "Chaetoceros pseudocurvisetus Mangin, 1910",
+    "ChiID": 0
+  },
+  {
+    "ID": 581,
+    "Ten": "",
+    "TenKhoaHoc": "Chaetoceros pendulus Karsten, 1905",
+    "ChiID": 0
+  },
+  {
+    "ID": 580,
+    "Ten": "",
+    "TenKhoaHoc": "Chaetoceros lorenzianus Grunow, 1863",
+    "ChiID": 0
+  },
+  {
+    "ID": 579,
+    "Ten": "",
+    "TenKhoaHoc": "Chaetoceros libenii Cleve",
+    "ChiID": 0
+  },
+  {
+    "ID": 578,
+    "Ten": "",
+    "TenKhoaHoc": "Chaetoceros lauderia Ralfs, 1864",
+    "ChiID": 0
+  },
+  {
+    "ID": 577,
+    "Ten": "",
+    "TenKhoaHoc": "Chaetoceros laevis G. Leuduger - Fortmorel, 1892",
+    "ChiID": 0
+  },
+  {
+    "ID": 576,
+    "Ten": "",
+    "TenKhoaHoc": "Chaetoceros laciniosus F. Schütt, 1895",
+    "ChiID": 0
+  },
+  {
+    "ID": 575,
+    "Ten": "",
+    "TenKhoaHoc": "Chaetoceros distantus Cleve, 1873",
+    "ChiID": 0
+  },
+  {
+    "ID": 574,
+    "Ten": "",
+    "TenKhoaHoc": "Chaetoceros atlanticus Cleve, 1873",
+    "ChiID": 0
+  },
+  {
+    "ID": 573,
+    "Ten": "",
+    "TenKhoaHoc": "Chaetoceros affinis Lauder, 1864",
+    "ChiID": 0
+  },
+  {
+    "ID": 572,
+    "Ten": "",
+    "TenKhoaHoc": "Chaetoceros abnomis Lauder",
+    "ChiID": 0
+  },
+  {
+    "ID": 571,
+    "Ten": "",
+    "TenKhoaHoc": "Bacteriastrum varians Lauder, 1864",
+    "ChiID": 0
+  },
+  {
+    "ID": 570,
+    "Ten": "",
+    "TenKhoaHoc": "Bacteriastrum delicatulum Cleve, 1897",
+    "ChiID": 0
+  },
+  {
+    "ID": 569,
+    "Ten": "",
+    "TenKhoaHoc": "Bacteriastrum comosum Pavillard, 1916",
+    "ChiID": 0
+  },
+  {
+    "ID": 568,
+    "Ten": "",
+    "TenKhoaHoc": "Rhizosolenia styliformis T. Brightwell, 1858",
+    "ChiID": 0
+  },
+  {
+    "ID": 567,
+    "Ten": "",
+    "TenKhoaHoc": "Rhizosolenia stolterfothii Perag., 1888",
+    "ChiID": 0
+  },
+  {
+    "ID": 566,
+    "Ten": "",
+    "TenKhoaHoc": "Rhizosolenia robusta Norman ex Ralfs in Pritchard, 1861",
+    "ChiID": 0
+  },
+  {
+    "ID": 565,
+    "Ten": "",
+    "TenKhoaHoc": "Rhizosolenia acuminatum (Perag.) Gran., 1892",
+    "ChiID": 0
+  },
+  {
+    "ID": 564,
+    "Ten": "",
+    "TenKhoaHoc": "Leptocylindrus danicus Cleve, 1873",
+    "ChiID": 0
+  },
+  {
+    "ID": 563,
+    "Ten": "",
+    "TenKhoaHoc": "Guinardia flaccida (Castracane) H. Peragallo, 1892",
+    "ChiID": 0
+  },
+  {
+    "ID": 562,
+    "Ten": "",
+    "TenKhoaHoc": "Corethron hystrix Hensen, 1887",
+    "ChiID": 0
+  },
+  {
+    "ID": 561,
+    "Ten": "",
+    "TenKhoaHoc": "Corethron criophilum Castracane, 1886",
+    "ChiID": 0
+  },
+  {
+    "ID": 560,
+    "Ten": "",
+    "TenKhoaHoc": "Actinoptychus splendens (Shadbolt) Ralfs ex Pritchard, 1861",
+    "ChiID": 0
+  },
+  {
+    "ID": 559,
+    "Ten": "",
+    "TenKhoaHoc": "Thalassiosira subtilis  (Ostenfeld) Gran, 1900",
+    "ChiID": 0
+  },
+  {
+    "ID": 558,
+    "Ten": "",
+    "TenKhoaHoc": "Lauderia borealis Gran, 1900",
+    "ChiID": 0
+  },
+  {
+    "ID": 557,
+    "Ten": "",
+    "TenKhoaHoc": "Coscinosira oestrupi Ostenfeld, 1900",
+    "ChiID": 0
+  },
+  {
+    "ID": 556,
+    "Ten": "",
+    "TenKhoaHoc": "Stephanopyxis palmeriana (Greville) Grunow, 1884",
+    "ChiID": 0
+  },
+  {
+    "ID": 555,
+    "Ten": "",
+    "TenKhoaHoc": "Skeletonema costatum (Grev.) Cleve, 1873",
+    "ChiID": 0
+  },
+  {
+    "ID": 554,
+    "Ten": "",
+    "TenKhoaHoc": "Melosira varians C. Agardh, 1827",
+    "ChiID": 0
+  },
+  {
+    "ID": 553,
+    "Ten": "",
+    "TenKhoaHoc": "Melosira nummuloides (Dilw.) Agardh, 1824",
+    "ChiID": 0
+  },
+  {
+    "ID": 552,
+    "Ten": "",
+    "TenKhoaHoc": "Melosira distans  (Ehrenberg) Kützing, 1844",
+    "ChiID": 0
+  },
+  {
+    "ID": 551,
+    "Ten": "",
+    "TenKhoaHoc": "Leptocylindrus danicus  Cleve, 1889",
+    "ChiID": 0
+  },
+  {
+    "ID": 550,
+    "Ten": "",
+    "TenKhoaHoc": "Stephanodiscus astraea Ehr. (Grun)",
+    "ChiID": 0
+  },
+  {
+    "ID": 549,
+    "Ten": "",
+    "TenKhoaHoc": "Ethmodiscus sp.",
+    "ChiID": 0
+  },
+  {
+    "ID": 548,
+    "Ten": "",
+    "TenKhoaHoc": "Cyclotella striata (Kützing) Grunow, 1880",
+    "ChiID": 0
+  },
+  {
+    "ID": 547,
+    "Ten": "",
+    "TenKhoaHoc": "Cyclotella bodanica  Eulenstein ex Grunow, 1878",
+    "ChiID": 0
+  },
+  {
+    "ID": 546,
+    "Ten": "",
+    "TenKhoaHoc": "Coscinodiscus spinosus Chin., 1965",
+    "ChiID": 0
+  },
+  {
+    "ID": 545,
+    "Ten": "",
+    "TenKhoaHoc": "Coscinodiscus astromphalus Ehr.",
+    "ChiID": 0
+  },
+  {
+    "ID": 544,
+    "Ten": "",
+    "TenKhoaHoc": "Actinocyclus ehrenbergii Ralfs in Pritchard, 1861",
+    "ChiID": 0
+  },
+  {
+    "ID": 543,
+    "Ten": "",
+    "TenKhoaHoc": "Bacteriastrum hyalinum Lauder, 1864",
+    "ChiID": 0
+  },
+  {
+    "ID": 542,
+    "Ten": "Scolelepis indica Fauvel 1928",
+    "TenKhoaHoc": "Scolelepis indica Fauvel 1928",
+    "ChiID": 197
+  },
+  {
+    "ID": 541,
+    "Ten": "Onuphis sp",
+    "TenKhoaHoc": "Onuphis sp",
+    "ChiID": 196
+  },
+  {
+    "ID": 540,
+    "Ten": "Marphysa mossambica Peters, 1854",
+    "TenKhoaHoc": "Marphysa mossambica Peters, 1854",
+    "ChiID": 195
+  },
+  {
+    "ID": 539,
+    "Ten": "Chrysopetalum ehlersi Gravier, 1901",
+    "TenKhoaHoc": "Chrysopetalum ehlersi Gravier, 1901",
+    "ChiID": 194
+  },
+  {
+    "ID": 538,
+    "Ten": "Nephthys oligobranchia Southern, 1921",
+    "TenKhoaHoc": "Nephthys oligobranchia Southern, 1921",
+    "ChiID": 187
+  },
+  {
+    "ID": 537,
+    "Ten": "Holothuria scabra Jaeger, 1833",
+    "TenKhoaHoc": "Holothuria scabra Jaeger, 1833",
+    "ChiID": 192
+  },
+  {
+    "ID": 536,
+    "Ten": "Laonome kroyeri Malmgren, 1866",
+    "TenKhoaHoc": "Laonome kroyeri Malmgren, 1866",
+    "ChiID": 190
+  },
+  {
+    "ID": 535,
+    "Ten": "Nephthys gravieriAugener, 1913",
+    "TenKhoaHoc": "Nephthys gravieriAugener, 1913",
+    "ChiID": 187
+  },
+  {
+    "ID": 534,
+    "Ten": "",
+    "TenKhoaHoc": "Diopatra neaplitana Delle Chiaje, 1841",
+    "ChiID": 185
+  },
+  {
+    "ID": 533,
+    "Ten": "Cá liệt sọc",
+    "TenKhoaHoc": "Leiognathus lineolatus (Valenciennes, 1835)",
+    "ChiID": 100
+  },
+  {
+    "ID": 532,
+    "Ten": "Cá bò ba gai mõm ngắn",
+    "TenKhoaHoc": "Triacanthus biaculeatus (Bloch, 1786)",
+    "ChiID": 158
+  },
+  {
+    "ID": 531,
+    "Ten": "Cá bơn lưỡi",
+    "TenKhoaHoc": "Cynoglosssus monopus (Bleeker, 1849)",
+    "ChiID": 135
+  },
+  {
+    "ID": 530,
+    "Ten": "Cá bống râu",
+    "TenKhoaHoc": "Triaenopogon barbatus (Gunther, 1861)",
+    "ChiID": 183
+  },
+  {
+    "ID": 529,
+    "Ten": "Cá kẽm hoa",
+    "TenKhoaHoc": "Plectorhynchus pictus (Thunberg, 1792)",
+    "ChiID": 149
+  },
+  {
+    "ID": 528,
+    "Ten": "Cá hồng vàng sọc mờ",
+    "TenKhoaHoc": "Lutianus lineolatus (Ruppell, 1829)",
+    "ChiID": 148
+  },
+  {
+    "ID": 527,
+    "Ten": "Cá hồng chấm",
+    "TenKhoaHoc": "Lutianus johnii (Bloch, 1792)",
+    "ChiID": 148
+  },
+  {
+    "ID": 526,
+    "Ten": "Cá róc",
+    "TenKhoaHoc": "Caranx djedaba (Forskal, 1775)",
+    "ChiID": 147
+  },
+  {
+    "ID": 525,
+    "Ten": "Cá suốt nhiệt đới",
+    "TenKhoaHoc": "Atherina duodeoimalis Valenciennes 1835",
+    "ChiID": 84
+  },
+  {
+    "ID": 524,
+    "Ten": "Cá nhồng",
+    "TenKhoaHoc": "Sphyraena barracuda (Walbaum, 1792)",
+    "ChiID": 160
+  },
+  {
+    "ID": 523,
+    "Ten": "Cá Kìm",
+    "TenKhoaHoc": "Hemirhamphus gaimardi (Cuv. & Val.)",
+    "ChiID": 80
+  },
+  {
+    "ID": 522,
+    "Ten": "Cá kìm vây đen",
+    "TenKhoaHoc": "Hemirhamphus melarurus Valenciennes, 1847",
+    "ChiID": 80
+  },
+  {
+    "ID": 521,
+    "Ten": "Cá Úc trắng",
+    "TenKhoaHoc": "Arius sciurus (H.\\m. Smith, 1931)",
+    "ChiID": 76
+  },
+  {
+    "ID": 520,
+    "Ten": "Cám cơm Ấn Độ",
+    "TenKhoaHoc": "Stolephorus indicus (van Hasselt, 1823)",
+    "ChiID": 71
+  },
+  {
+    "ID": 519,
+    "Ten": "Cá ông lão",
+    "TenKhoaHoc": "Alectis indica (Ruppell, 1830)",
+    "ChiID": 182
+  },
+  {
+    "ID": 518,
+    "Ten": "Cá mú chấm đỏ",
+    "TenKhoaHoc": "Epinephelus akaara (Tem. & Schl.1842)",
+    "ChiID": 145
+  },
+  {
+    "ID": 517,
+    "Ten": "Cá mú sọc ngang",
+    "TenKhoaHoc": "Epinephelus fasciatus (Forskal, 1775)",
+    "ChiID": 145
+  },
+  {
+    "ID": 516,
+    "Ten": "Cá bẹ ăn cua",
+    "TenKhoaHoc": "Ophichthys cancrivorus Richardson, 1848",
+    "ChiID": 78
+  },
+  {
+    "ID": 515,
+    "Ten": "Cá lẹp vây đen",
+    "TenKhoaHoc": "Setipina melanochia (Bleeker, 1849)",
+    "ChiID": 181
+  },
+  {
+    "ID": 514,
+    "Ten": "Cá bẹ dài, cá đé",
+    "TenKhoaHoc": "Ilisha elongata (Bennett, 1830)",
+    "ChiID": 166
+  },
+  {
+    "ID": 513,
+    "Ten": "Cá nóc hột mít",
+    "TenKhoaHoc": "Tetraodon palembangensis (Bleeker, 1852)",
+    "ChiID": 180
+  },
+  {
+    "ID": 512,
+    "Ten": "Cá bơn hai sọc",
+    "TenKhoaHoc": "Arelia diplasios (Evermann & Jordan 1902)",
+    "ChiID": 179
+  },
+  {
+    "ID": 511,
+    "Ten": "Cá bơn cát nhằng",
+    "TenKhoaHoc": "Cynoglosssus gracilis Gunther, 1861",
+    "ChiID": 135
+  },
+  {
+    "ID": 510,
+    "Ten": "Cá bơn dẹt",
+    "TenKhoaHoc": "Cynoglosssus cynoglossus (Hamilton, 1822)",
+    "ChiID": 135
+  },
+  {
+    "ID": 509,
+    "Ten": "Cá bơn lưỡi mèo",
+    "TenKhoaHoc": "Synaptura commersoni (Lacepède 1802)",
+    "ChiID": 156
+  },
+  {
+    "ID": 508,
+    "Ten": "Cá bơn vây đen",
+    "TenKhoaHoc": "Laeops kitaharae (Smith & Pope, 1906)",
+    "ChiID": 178
+  },
+  {
+    "ID": 507,
+    "Ten": "Cá bơn chấm",
+    "TenKhoaHoc": "Pseudorthombus negrectus Bleeker, 1865",
+    "ChiID": 132
+  },
+  {
+    "ID": 506,
+    "Ten": "Cá bơn chấm hoa giữa",
+    "TenKhoaHoc": "Pseudorthombus levisquamis (Oshima, 1927)",
+    "ChiID": 132
+  },
+  {
+    "ID": 505,
+    "Ten": "Cá thoi loi lớn",
+    "TenKhoaHoc": "Periophthalmodon schlosseri (Lallas, 1770)",
+    "ChiID": 127
+  },
+  {
+    "ID": 504,
+    "Ten": "Cá bống kèo",
+    "TenKhoaHoc": "Pseudapocryptes lanceolatus (Bloch., 1801)",
+    "ChiID": 177
+  },
+  {
+    "ID": 503,
+    "Ten": "Cá bống điếu",
+    "TenKhoaHoc": "Brachigobius sua (Smith, 1931)",
+    "ChiID": 176
+  },
+  {
+    "ID": 502,
+    "Ten": "Cá dìa công",
+    "TenKhoaHoc": "Siganus guttatus (Bloch, 1787)",
+    "ChiID": 118
+  },
+  {
+    "ID": 501,
+    "Ten": "Cá thia hai chấm",
+    "TenKhoaHoc": "Abudefduf glaucus (Cuv. & Val., 1830)",
+    "ChiID": 112
+  },
+  {
+    "ID": 500,
+    "Ten": "Cá tráp vây xám",
+    "TenKhoaHoc": "Sparus berda Forskal, 1775",
+    "ChiID": 150
+  },
+  {
+    "ID": 499,
+    "Ten": "Cá đù mõm nhọn",
+    "TenKhoaHoc": "Nibea acuta (Tang, 1937)",
+    "ChiID": 162
+  },
+  {
+    "ID": 498,
+    "Ten": "Cá ga da",
+    "TenKhoaHoc": "Gazza minuta (Bloch, 1795)",
+    "ChiID": 175
+  },
+  {
+    "ID": 497,
+    "Ten": "Cá liệt dài",
+    "TenKhoaHoc": "Leiognathus elongatus (Gunther, 1874)",
+    "ChiID": 100
+  },
+  {
+    "ID": 496,
+    "Ten": "Cá cam sọc",
+    "TenKhoaHoc": "Seriola dumerili (Risso, 1810)",
+    "ChiID": 174
+  },
+  {
+    "ID": 495,
+    "Ten": "Cá bè chấm to",
+    "TenKhoaHoc": "Chorinemus moadetta Cuvier, 1832",
+    "ChiID": 173
+  },
+  {
+    "ID": 494,
+    "Ten": "Cá háo sáu sọc",
+    "TenKhoaHoc": "Caranx sexfasciatus (Quoy & Gaimard, 1825)",
+    "ChiID": 147
+  },
+  {
+    "ID": 493,
+    "Ten": "Cá sơn bắc mang",
+    "TenKhoaHoc": "Apogon auritus (Lacepède, 1802)",
+    "ChiID": 146
+  },
+  {
+    "ID": 492,
+    "Ten": "Cá căng mõm nhọn",
+    "TenKhoaHoc": "Therapon oxyrhynchus Temminck & Schlegel, 1842",
+    "ChiID": 91
+  },
+  {
+    "ID": 491,
+    "Ten": "Cá mú cỏ",
+    "TenKhoaHoc": "Epinephelus nebulosus (Valenciennes, 1828)",
+    "ChiID": 145
+  },
+  {
+    "ID": 490,
+    "Ten": "Cá vược cát",
+    "TenKhoaHoc": "Psammoperca waigienssis (Cuvier & Valenciennes, 1828)",
+    "ChiID": 172
+  },
+  {
+    "ID": 489,
+    "Ten": "Cá sơn biển sọc bạc",
+    "TenKhoaHoc": "Ambassis commersoni (Cuvier and Valenciennes, 1828)",
+    "ChiID": 87
+  },
+  {
+    "ID": 488,
+    "Ten": "Cá nhụ gộc",
+    "TenKhoaHoc": "Polynemus plebejus (Broussonet, 1788)",
+    "ChiID": 86
+  },
+  {
+    "ID": 487,
+    "Ten": "Cá đối cồi",
+    "TenKhoaHoc": "Mugil apinensis (Oshima, 1922)",
+    "ChiID": 83
+  },
+  {
+    "ID": 486,
+    "Ten": "Cá nhồng vằn",
+    "TenKhoaHoc": "Sphyraena jello (Cube. & Van., 1829)",
+    "ChiID": 160
+  },
+  {
+    "ID": 485,
+    "Ten": "Cá chìa vôi chấm trắng",
+    "TenKhoaHoc": "Syngnathus spicifer (Ruppel, 1838)",
+    "ChiID": 144
+  },
+  {
+    "ID": 484,
+    "Ten": "Cá chìa vôi mõm nhọn",
+    "TenKhoaHoc": "Syngnathus acus Linnaeus, 1758",
+    "ChiID": 144
+  },
+  {
+    "ID": 483,
+    "Ten": "Cá nhói",
+    "TenKhoaHoc": "Xenentodon canciloides (Bleeker, 1853)",
+    "ChiID": 171
+  },
+  {
+    "ID": 482,
+    "Ten": "Cá lệch hoa",
+    "TenKhoaHoc": "Evenchelys macrurus (Bleeker, 1854)",
+    "ChiID": 170
+  },
+  {
+    "ID": 481,
+    "Ten": "Cá úc thép",
+    "TenKhoaHoc": "Oesteogeniosus militaris (Linnaeus, 1758)",
+    "ChiID": 169
+  },
+  {
+    "ID": 480,
+    "Ten": "Cá úc hoa",
+    "TenKhoaHoc": "Arius maculatus (Thunberg, 1792)",
+    "ChiID": 76
+  },
+  {
+    "ID": 479,
+    "Ten": "Cá ngát đen",
+    "TenKhoaHoc": "Plotosus canius (Hamilton, 1822)",
+    "ChiID": 75
+  },
+  {
+    "ID": 478,
+    "Ten": "Cá mối nhàng",
+    "TenKhoaHoc": "Saurida gracillis (Quoy & Gaimard, 1824)",
+    "ChiID": 141
+  },
+  {
+    "ID": 477,
+    "Ten": "Cá măng sữa",
+    "TenKhoaHoc": "Chanos chanos (Forsskal, 1775)",
+    "ChiID": 168
+  },
+  {
+    "ID": 476,
+    "Ten": "Cá cơm mõm nhọn",
+    "TenKhoaHoc": "Stolephorus heterolobus (Ruppell, 1837)",
+    "ChiID": 71
+  },
+  {
+    "ID": 475,
+    "Ten": "Cá mòi không răng",
+    "TenKhoaHoc": "Anodontostoma chacunda (Hamilton 1822)",
+    "ChiID": 167
+  },
+  {
+    "ID": 474,
+    "Ten": "Cá bẹ",
+    "TenKhoaHoc": "Ilisha megaloptera (Swaison, 1839)",
+    "ChiID": 166
+  },
+  {
+    "ID": 473,
+    "Ten": "Cá trích bầu",
+    "TenKhoaHoc": "Sardinella sindensis (Day, 1878)",
+    "ChiID": 67
+  },
+  {
+    "ID": 472,
+    "Ten": "Cá cháo lớn",
+    "TenKhoaHoc": "Megalops cyprinoides (Broussonet, 1782)",
+    "ChiID": 164
+  },
+  {
+    "ID": 471,
+    "Ten": "Cá đuối bướm nhật",
+    "TenKhoaHoc": "Gymmura japonica (Temminck & Schlegel, 1850)",
+    "ChiID": 163
+  },
+  {
+    "ID": 470,
+    "Ten": "Cá đuối bướm hoa",
+    "TenKhoaHoc": "Gymmura poecilura (Shaw, 1804)",
+    "ChiID": 163
+  },
+  {
+    "ID": 469,
+    "Ten": "Cá bơn nhỏ",
+    "TenKhoaHoc": "Solea humilis Cantor, 1849",
+    "ChiID": 133
+  },
+  {
+    "ID": 468,
+    "Ten": "Cá bống Hạ môn",
+    "TenKhoaHoc": "Amoya hainanensis (Oshima, 1926)",
+    "ChiID": 126
+  },
+  {
+    "ID": 467,
+    "Ten": "Cá đàn lia hin xi",
+    "TenKhoaHoc": "Callionymus hindsii Richardson, 1844",
+    "ChiID": 116
+  },
+  {
+    "ID": 466,
+    "Ten": "Cá thia sáu sọc",
+    "TenKhoaHoc": "Abudefduf ceolestimus (Cuv. & Val.,1830)",
+    "ChiID": 112
+  },
+  {
+    "ID": 465,
+    "Ten": "Cá đù nanh",
+    "TenKhoaHoc": "Nibea albiflora (Richardson, 1846)",
+    "ChiID": 162
+  },
+  {
+    "ID": 464,
+    "Ten": "Cá móm Nhật",
+    "TenKhoaHoc": "Gerreomorpha japonica (Bleeker, 1854)",
+    "ChiID": 102
+  },
+  {
+    "ID": 463,
+    "Ten": "Cá liệt lớn",
+    "TenKhoaHoc": "Leiognathus equulus (Forskal, 1775)",
+    "ChiID": 100
+  },
+  {
+    "ID": 462,
+    "Ten": "Cá hồng",
+    "TenKhoaHoc": "Lutianus erythropterus (Bloch, 1790)",
+    "ChiID": 148
+  },
+  {
+    "ID": 461,
+    "Ten": "Cá sơn xương",
+    "TenKhoaHoc": "Chanda gymnocephalus (Lacepede, 1802)",
+    "ChiID": 161
+  },
+  {
+    "ID": 460,
+    "Ten": "Cá sơn biển",
+    "TenKhoaHoc": "Ambassis kopsi Bleeker, 1858",
+    "ChiID": 87
+  },
+  {
+    "ID": 459,
+    "Ten": "Cá nhồng tù",
+    "TenKhoaHoc": "Sphyraena obtusata Cuvier, 1829",
+    "ChiID": 160
+  },
+  {
+    "ID": 458,
+    "Ten": "Cá nhói đuôi chấm",
+    "TenKhoaHoc": "Tylosaurus strongylurus (van Hasselt, 1823)",
+    "ChiID": 79
+  },
+  {
+    "ID": 457,
+    "Ten": "Cá lịch vân vàng",
+    "TenKhoaHoc": "Echidna polyzona (Richardson, 1845)",
+    "ChiID": 159
+  },
+  {
+    "ID": 393,
+    "Ten": "",
+    "TenKhoaHoc": "Hibiscus tiliaceus L.",
+    "ChiID": 6
+  },
+  {
+    "ID": 392,
+    "Ten": "",
+    "TenKhoaHoc": "Pongamia pinnata (L.) Pierre",
+    "ChiID": 6
+  },
+  {
+    "ID": 391,
+    "Ten": "",
+    "TenKhoaHoc": "Derris trifoliata Lour.",
+    "ChiID": 6
+  },
+  {
+    "ID": 390,
+    "Ten": "",
+    "TenKhoaHoc": "Canavalia lineata (Thunb.) DC.",
+    "ChiID": 6
+  },
+  {
+    "ID": 389,
+    "Ten": "",
+    "TenKhoaHoc": "Ipomoea pes-caprae Sw.",
+    "ChiID": 6
+  },
+  {
+    "ID": 388,
+    "Ten": "",
+    "TenKhoaHoc": "Lumnitzera racemosa Willd.",
+    "ChiID": 6
+  },
+  {
+    "ID": 387,
+    "Ten": "",
+    "TenKhoaHoc": "Suaea maritima (L.) Dunn",
+    "ChiID": 6
+  },
+  {
+    "ID": 386,
+    "Ten": "",
+    "TenKhoaHoc": "Casuarina equisetifolia J.R. et G.Forst.",
+    "ChiID": 6
+  },
+  {
+    "ID": 385,
+    "Ten": "",
+    "TenKhoaHoc": "Dolichandrone grathacea (L.f.) K. Schum",
+    "ChiID": 6
+  },
+  {
+    "ID": 384,
+    "Ten": "",
+    "TenKhoaHoc": "Wedelia biflora (L.) DC.",
+    "ChiID": 6
+  },
+  {
+    "ID": 383,
+    "Ten": "",
+    "TenKhoaHoc": "Pluchea pteropoda Hemsl.",
+    "ChiID": 6
+  },
+  {
+    "ID": 382,
+    "Ten": "",
+    "TenKhoaHoc": "Blumea balsamifera (L.) DC.",
+    "ChiID": 6
+  },
+  {
+    "ID": 381,
+    "Ten": "",
+    "TenKhoaHoc": "Cerbera odollam Gaertn.",
+    "ChiID": 6
+  },
+  {
+    "ID": 380,
+    "Ten": "",
+    "TenKhoaHoc": "Annona glabra L.",
+    "ChiID": 6
+  },
+  {
+    "ID": 379,
+    "Ten": "",
+    "TenKhoaHoc": "Sesuvium portulacustrum (L.) L.",
+    "ChiID": 6
+  },
+  {
+    "ID": 378,
+    "Ten": "",
+    "TenKhoaHoc": "Acanthus icilifolius L.",
+    "ChiID": 6
+  },
+  {
+    "ID": 377,
+    "Ten": "",
+    "TenKhoaHoc": "Acanthus ebracteatus Vahl",
+    "ChiID": 6
+  },
+  {
+    "ID": 376,
+    "Ten": "",
+    "TenKhoaHoc": "Paracalanus parvus (Claus, 1863)",
+    "ChiID": 6
+  },
+  {
+    "ID": 375,
+    "Ten": "",
+    "TenKhoaHoc": "Eucalanus subcrassus Giesbrecht, 1888",
+    "ChiID": 6
+  },
+  {
+    "ID": 374,
+    "Ten": "",
+    "TenKhoaHoc": "Eucalanus crassus Giesbrecht, 1888",
+    "ChiID": 6
+  },
+  {
+    "ID": 373,
+    "Ten": "",
+    "TenKhoaHoc": "Pseudevadne tergestina (Claus, 1877)",
+    "ChiID": 6
+  },
+  {
+    "ID": 372,
+    "Ten": "",
+    "TenKhoaHoc": "Penilia avirostris Dana, 1849",
+    "ChiID": 6
+  },
+  {
+    "ID": 370,
+    "Ten": "",
+    "TenKhoaHoc": "Acrostichum aureum L.",
+    "ChiID": 6
+  },
+  {
+    "ID": 369,
+    "Ten": "",
+    "TenKhoaHoc": "Colochirus quandranularis Troschel, 1846",
+    "ChiID": 6
+  },
+  {
+    "ID": 368,
+    "Ten": "",
+    "TenKhoaHoc": "Actinopyga echinites (Jaeger, 1833)",
+    "ChiID": 6
+  },
+  {
+    "ID": 367,
+    "Ten": "",
+    "TenKhoaHoc": "Laonice cirrata  (M. Sars, 1851)",
+    "ChiID": 7
+  },
+  {
+    "ID": 366,
+    "Ten": "",
+    "TenKhoaHoc": "Tylonereis bogoyawlenskyi Fauvel, 1911",
+    "ChiID": 6
+  },
+  {
+    "ID": 365,
+    "Ten": "",
+    "TenKhoaHoc": "Neanthes caudata  (Delle Chiaje, 1828)",
+    "ChiID": 6
+  },
+  {
+    "ID": 364,
+    "Ten": "",
+    "TenKhoaHoc": "Dendronereis arborifera  Peter, 1854",
+    "ChiID": 6
+  },
+  {
+    "ID": 363,
+    "Ten": "",
+    "TenKhoaHoc": "Ceratonereis mirabilis Kinberg, 1865",
+    "ChiID": 6
+  },
+  {
+    "ID": 362,
+    "Ten": "",
+    "TenKhoaHoc": "Ceratonereis burmensis Monro, 1937",
+    "ChiID": 6
+  },
+  {
+    "ID": 360,
+    "Ten": "",
+    "TenKhoaHoc": "Nephthys californiensis Hartman, 1938",
+    "ChiID": 6
+  },
+  {
+    "ID": 359,
+    "Ten": "",
+    "TenKhoaHoc": "Ancistrosyllis constricta  (Southern, 1921)",
+    "ChiID": 6
+  },
+  {
+    "ID": 358,
+    "Ten": "",
+    "TenKhoaHoc": "Lumbriconereis notocirrata Fauvel, 1932",
+    "ChiID": 6
+  },
+  {
+    "ID": 319,
+    "Ten": "Cá bò gai",
+    "TenKhoaHoc": "Triacanthus brevirostris (Temminck & Schlegel,. 1846)",
+    "ChiID": 158
+  },
+  {
+    "ID": 318,
+    "Ten": "Cá bơn cát nửa trơn",
+    "TenKhoaHoc": "Areliscus remilaevis (Gunther, 1873)",
+    "ChiID": 157
+  },
+  {
+    "ID": 317,
+    "Ten": "Cá bơn mắt lệch",
+    "TenKhoaHoc": "Cynoglosssus lineolatus Steindachner, 1867",
+    "ChiID": 135
+  },
+  {
+    "ID": 316,
+    "Ten": "Cá bơn lá mít",
+    "TenKhoaHoc": "Synaptura orientalis (Schneider & Bloch 1801)",
+    "ChiID": 156
+  },
+  {
+    "ID": 315,
+    "Ten": "Cá ngộ",
+    "TenKhoaHoc": "Psettodes erumei (Bloch and Schneider, 1801)",
+    "ChiID": 155
+  },
+  {
+    "ID": 314,
+    "Ten": "Cá bơn vỉ",
+    "TenKhoaHoc": "Pseudorthombus arsius (Hamilton & Buchanan, 1822)",
+    "ChiID": 132
+  },
+  {
+    "ID": 313,
+    "Ten": "Cá mặt quỷ",
+    "TenKhoaHoc": "Synanceia verrucosa Bloch & Schneider, 1801",
+    "ChiID": 154
+  },
+  {
+    "ID": 312,
+    "Ten": "Cá bống sâu màu tro",
+    "TenKhoaHoc": "Bathygobius fuscus (Ruppel, 1830)",
+    "ChiID": 153
+  },
+  {
+    "ID": 311,
+    "Ten": "Cá bống Gia nét",
+    "TenKhoaHoc": "Auloparia jenetae Smith, 1945",
+    "ChiID": 152
+  },
+  {
+    "ID": 310,
+    "Ten": "Cá bống cửa",
+    "TenKhoaHoc": "Prionobutis koilomatodon (Bleeker, 1849)",
+    "ChiID": 151
+  },
+  {
+    "ID": 309,
+    "Ten": "Cá dìa trơn",
+    "TenKhoaHoc": "Siganus fuscessens (Houttuyn, 1782)",
+    "ChiID": 118
+  },
+  {
+    "ID": 308,
+    "Ten": "Cá bàng chài hai sọc đẹn",
+    "TenKhoaHoc": "Halichoeres bicolor (Bloch & Schneider, 1801)",
+    "ChiID": 114
+  },
+  {
+    "ID": 307,
+    "Ten": "Cá nâu/Cá hói",
+    "TenKhoaHoc": "Scatophagus argus (Linnaeus, 1766)",
+    "ChiID": 111
+  },
+  {
+    "ID": 306,
+    "Ten": "Cá tráp đen đầu to",
+    "TenKhoaHoc": "Sparus macrocephalus (Basilewwski, 1855)",
+    "ChiID": 150
+  },
+  {
+    "ID": 305,
+    "Ten": "Cá đù bằng",
+    "TenKhoaHoc": "Argyrosomus aneus (Bloch, 1793)",
+    "ChiID": 107
+  },
+  {
+    "ID": 304,
+    "Ten": "Cá kẽm lang",
+    "TenKhoaHoc": "Plectorhynchus cinctus (Schlegel & Temminck 1843)",
+    "ChiID": 149
+  },
+  {
+    "ID": 303,
+    "Ten": "Cá móm",
+    "TenKhoaHoc": "Gerres oyena (Forskal, 1775)",
+    "ChiID": 101
+  },
+  {
+    "ID": 302,
+    "Ten": "Cá móm biên",
+    "TenKhoaHoc": "Gerres limbatus Cuvier 1830",
+    "ChiID": 101
+  },
+  {
+    "ID": 301,
+    "Ten": "Cá ngãng sọc",
+    "TenKhoaHoc": "Leiognathus rivulatus (Temminck & Schlegel, 1845)",
+    "ChiID": 100
+  },
+  {
+    "ID": 300,
+    "Ten": "Cá dơi tròn",
+    "TenKhoaHoc": "Scolopsis vosmeri (Bloch, 1792)",
+    "ChiID": 99
+  },
+  {
+    "ID": 299,
+    "Ten": "Cá hồng bạc",
+    "TenKhoaHoc": "Lutjanus argentimaculatus (Forsskål, 1775)",
+    "ChiID": 148
+  },
+  {
+    "ID": 298,
+    "Ten": "Cá ngân",
+    "TenKhoaHoc": "Caranx kalla (Cuvier, 1833)",
+    "ChiID": 147
+  },
+  {
+    "ID": 297,
+    "Ten": "Cá sơn en li",
+    "TenKhoaHoc": "Apogonichthys ellioti (Day, 1875)",
+    "ChiID": 93
+  },
+  {
+    "ID": 296,
+    "Ten": "Cá sơn một vạch",
+    "TenKhoaHoc": "Apogon monochrous Bleeker, 1856",
+    "ChiID": 146
+  },
+  {
+    "ID": 295,
+    "Ten": "Cá mú điểm gai",
+    "TenKhoaHoc": "Epinephelus malabaricus Bloch & Schneider, 1801)",
+    "ChiID": 145
+  },
+  {
+    "ID": 294,
+    "Ten": "Cá song mỡ",
+    "TenKhoaHoc": "Epinephelus tauvina (Forskal, 1775)",
+    "ChiID": 145
+  },
+  {
+    "ID": 293,
+    "Ten": "Cá đối lá",
+    "TenKhoaHoc": "Mugil kelaartii Gunther, 1861",
+    "ChiID": 83
+  },
+  {
+    "ID": 292,
+    "Ten": "Cá đối đầu nhọn",
+    "TenKhoaHoc": "Mugil strongocephalus (Richardson, 1846)",
+    "ChiID": 83
+  },
+  {
+    "ID": 291,
+    "Ten": "Cá chìa vôi thấp",
+    "TenKhoaHoc": "Syngnathus djarong Bleeker",
+    "ChiID": 144
+  },
+  {
+    "ID": 290,
+    "Ten": "Cá kìm môi dài",
+    "TenKhoaHoc": "Hemirhamphus georgii Valenciennes, 1847",
+    "ChiID": 80
+  },
+  {
+    "ID": 289,
+    "Ten": "Cá quai mõm tròn",
+    "TenKhoaHoc": "Ablennes anastomella (Valenciennes, 1846)",
+    "ChiID": 143
+  },
+  {
+    "ID": 288,
+    "Ten": "Cá nhệch răng hạt",
+    "TenKhoaHoc": "Pisodonophis boro (F. Hamilton, 1822)",
+    "ChiID": 142
+  },
+  {
+    "ID": 287,
+    "Ten": "Cá luy",
+    "TenKhoaHoc": "Muraenesox talabonoides (Bleeker, 1853)",
+    "ChiID": 77
+  },
+  {
+    "ID": 286,
+    "Ten": "Cá đối đầu dài",
+    "TenKhoaHoc": "Saurida elongata (Temminck & Schlegel, 1846)",
+    "ChiID": 141
+  },
+  {
+    "ID": 285,
+    "Ten": "Cá rớp",
+    "TenKhoaHoc": "Thryssa hamiltonii (Gray, 1835)",
+    "ChiID": 72
+  },
+  {
+    "ID": 284,
+    "Ten": "Cá cơm sọc tiêu",
+    "TenKhoaHoc": "Stolephorus tri (Bleeker, 1852)",
+    "ChiID": 71
+  },
+  {
+    "ID": 283,
+    "Ten": "Cá cháy bẹ",
+    "TenKhoaHoc": "Tenualosa toli (Val., 1847)",
+    "ChiID": 139
+  },
+  {
+    "ID": 282,
+    "Ten": "Cá đuối quạt",
+    "TenKhoaHoc": "Okamejei hollandi (Jordan & Richardson, 1909)",
+    "ChiID": 138
+  },
+  {
+    "ID": 281,
+    "Ten": "Cá nóc mặt trăng",
+    "TenKhoaHoc": "Lagocephalus lunaris (Bloch & Schneider, 1801)",
+    "ChiID": 137
+  },
+  {
+    "ID": 280,
+    "Ten": "Cá nóc vằn",
+    "TenKhoaHoc": "Spheroides oblongus (Bloch, 1786)",
+    "ChiID": 136
+  },
+  {
+    "ID": 279,
+    "Ten": "Cá bơn mắt",
+    "TenKhoaHoc": "Cynoglosssus microlepis (Bleeker. 1851)",
+    "ChiID": 135
+  },
+  {
+    "ID": 278,
+    "Ten": "Cá bơn diễm",
+    "TenKhoaHoc": "Cynoglosssus pucticeps (Rich. 1846)",
+    "ChiID": 135
+  },
+  {
+    "ID": 277,
+    "Ten": "Cá bơn hai sọc kép",
+    "TenKhoaHoc": "Cynoglosssus billineatus (Lacepède 1802)",
+    "ChiID": 135
+  },
+  {
+    "ID": 276,
+    "Ten": "Cá bơn cát vẩy to đuôi đen",
+    "TenKhoaHoc": "Cynoglosssus melampetalus (Richardson, 1846)",
+    "ChiID": 135
+  },
+  {
+    "ID": 275,
+    "Ten": "Cá bơn vằn",
+    "TenKhoaHoc": "Cynoglosssus punticeps (Richardson, 1846)",
+    "ChiID": 135
+  },
+  {
+    "ID": 274,
+    "Ten": "Cá bơn khoang râu",
+    "TenKhoaHoc": "Zebrias quagga (Kaup, 1858)",
+    "ChiID": 134
+  },
+  {
+    "ID": 272,
+    "Ten": "Cá bơn trứng",
+    "TenKhoaHoc": "Solea ovata Richardson, 1846",
+    "ChiID": 133
+  },
+  {
+    "ID": 271,
+    "Ten": "Cá bơn Mã lai",
+    "TenKhoaHoc": "Pseudorthombus malayanus Bleeker, 1865",
+    "ChiID": 132
+  },
+  {
+    "ID": 270,
+    "Ten": "Cá chai vằn Nhật bản",
+    "TenKhoaHoc": "Inegocia japonica (Tilesius, 1814)",
+    "ChiID": 131
+  },
+  {
+    "ID": 269,
+    "Ten": "Cá chai ấn độ",
+    "TenKhoaHoc": "Platycephalus indicus (Linnaeus, 1758)",
+    "ChiID": 130
+  },
+  {
+    "ID": 268,
+    "Ten": "Cá thoi loi chấm",
+    "TenKhoaHoc": "Scatelaos viridis (Hamilton 1822)",
+    "ChiID": 129
+  },
+  {
+    "ID": 267,
+    "Ten": "Cá thoi loi",
+    "TenKhoaHoc": "Boleophthalmus boddarti (Pallas, 1770)",
+    "ChiID": 128
+  },
+  {
+    "ID": 266,
+    "Ten": "Cá lác",
+    "TenKhoaHoc": "Boleophthalmus pertinirostris (Linnaeus, 1758)",
+    "ChiID": 128
+  },
+  {
+    "ID": 265,
+    "Ten": "Cá thoi loi",
+    "TenKhoaHoc": "Periophthalmus cantonensis (Osbeck, 1765)",
+    "ChiID": 127
+  },
+  {
+    "ID": 263,
+    "Ten": "Cá nhàm nhằng",
+    "TenKhoaHoc": "Taenioides gracillis (Valenciennes, 1837)",
+    "ChiID": 125
+  },
+  {
+    "ID": 262,
+    "Ten": "Cá bống răng xẻ",
+    "TenKhoaHoc": "Apocryptodon madurensis (Bleeker 1849)",
+    "ChiID": 124
+  },
+  {
+    "ID": 261,
+    "Ten": "Cá bống râu",
+    "TenKhoaHoc": "Pogonobius planifrons (Day, 1873)",
+    "ChiID": 123
+  },
+  {
+    "ID": 260,
+    "Ten": "Cá bống cát tối",
+    "TenKhoaHoc": "Glossogobius giuris (Hamilton, 1822)",
+    "ChiID": 122
+  },
+  {
+    "ID": 259,
+    "Ten": "Cá bống vẩy",
+    "TenKhoaHoc": "Stigmatogobius javanicus (Bleeker, 1856)",
+    "ChiID": 121
+  },
+  {
+    "ID": 258,
+    "Ten": "Cá bống mít",
+    "TenKhoaHoc": "Stigmatogobius sadanundo (Hamilton, 1856)",
+    "ChiID": 121
+  },
+  {
+    "ID": 257,
+    "Ten": "Cá bớp",
+    "TenKhoaHoc": "Bostrichthys sinensis (Lacépède, 1801)",
+    "ChiID": 120
+  },
+  {
+    "ID": 256,
+    "Ten": "Cá hố",
+    "TenKhoaHoc": "Trichiurus haumela (Forsskal 1775)",
+    "ChiID": 119
+  },
+  {
+    "ID": 255,
+    "Ten": "Cá hố cát",
+    "TenKhoaHoc": "Trichiurus savala Cuvier, 1829",
+    "ChiID": 119
+  },
+  {
+    "ID": 254,
+    "Ten": "Cá dìa chấm trắng",
+    "TenKhoaHoc": "Siganus oramin (Schneider & Bloch 1801)",
+    "ChiID": 118
+  },
+  {
+    "ID": 253,
+    "Ten": "Cá đàn lia gai xuôi",
+    "TenKhoaHoc": "Synchiropus altivelis (Temminck & Schlegel, 1845)",
+    "ChiID": 117
+  },
+  {
+    "ID": 252,
+    "Ten": "Cá đàn lia cháp",
+    "TenKhoaHoc": "Callionymus schaapi Bleeker, 1852",
+    "ChiID": 116
+  },
+  {
+    "ID": 251,
+    "Ten": "Cá bàng chài tro",
+    "TenKhoaHoc": "Choerodon schoenleinii (Valenciennes, 1839)",
+    "ChiID": 115
+  },
+  {
+    "ID": 250,
+    "Ten": "Cá bàng chài vằn chếch",
+    "TenKhoaHoc": "Choerodon azurio (Jordan & Snyder, 1901)",
+    "ChiID": 115
+  },
+  {
+    "ID": 249,
+    "Ten": "Cá bàng chài xám",
+    "TenKhoaHoc": "Halichoeres nigrescens (Bloch & Schneider, 1801)",
+    "ChiID": 114
+  },
+  {
+    "ID": 248,
+    "Ten": "Cá rô biển đen",
+    "TenKhoaHoc": "Stegastes nigricans (Lacépède, 1802)",
+    "ChiID": 113
+  },
+  {
+    "ID": 247,
+    "Ten": "Cá thia ba sọc",
+    "TenKhoaHoc": "Abudefduf trilineatus Wang, 1941",
+    "ChiID": 112
+  },
+  {
+    "ID": 246,
+    "Ten": "Cá nâu bốn sọc",
+    "TenKhoaHoc": "Scatophagus tetracanthus (Lacepède, 1802)",
+    "ChiID": 111
+  },
+  {
+    "ID": 245,
+    "Ten": "Cá phèn chấm đen",
+    "TenKhoaHoc": "Upenus tragula Richardson, 1846",
+    "ChiID": 110
+  },
+  {
+    "ID": 244,
+    "Ten": "Cá phèn vân vàng",
+    "TenKhoaHoc": "Upenus sulphureus Cuvier, 1829",
+    "ChiID": 110
+  },
+  {
+    "ID": 243,
+    "Ten": "Cá tráp đỏ",
+    "TenKhoaHoc": "Pagrosomus major (Temminck & Schlegel, 1843)",
+    "ChiID": 109
+  },
+  {
+    "ID": 242,
+    "Ten": "Cá tráp gai dài",
+    "TenKhoaHoc": "Agyrops cardinalis (Lacépède, 1802)",
+    "ChiID": 108
+  },
+  {
+    "ID": 241,
+    "Ten": "Cá đù bạc",
+    "TenKhoaHoc": "Argyrosomus argentatus (Houttuyn, 1782)",
+    "ChiID": 107
+  },
+  {
+    "ID": 240,
+    "Ten": "Cá uốp gai",
+    "TenKhoaHoc": "Pseudosciaena diacanthus ((Lacepède 1802)",
+    "ChiID": 106
+  },
+  {
+    "ID": 239,
+    "Ten": "Cá đỏ da vây xám",
+    "TenKhoaHoc": "Pseudosciaena aneus (Bloch, 1793)",
+    "ChiID": 106
+  },
+  {
+    "ID": 238,
+    "Ten": "Cá đù",
+    "TenKhoaHoc": "Sciaena dussumieri (Cuvier 1830)",
+    "ChiID": 105
+  },
+  {
+    "ID": 237,
+    "Ten": "Cá sạo chấm",
+    "TenKhoaHoc": "Pomadasys maculatus (Bloch, 1793)",
+    "ChiID": 104
+  },
+  {
+    "ID": 236,
+    "Ten": "Cá sạo",
+    "TenKhoaHoc": "Pomadasys hasta (Bloch, 1790)",
+    "ChiID": 104
+  },
+  {
+    "ID": 235,
+    "Ten": "Cá móm vây dài",
+    "TenKhoaHoc": "Pentaprion longimanus (Cantor, 1849)",
+    "ChiID": 103
+  },
+  {
+    "ID": 233,
+    "Ten": "Cá móm xẹp",
+    "TenKhoaHoc": "Gerres lucidus Cuvier, 1830",
+    "ChiID": 101
+  },
+  {
+    "ID": 232,
+    "Ten": "Cá mõm gai dài",
+    "TenKhoaHoc": "Gerres filamentosus Cuvier, 1829",
+    "ChiID": 101
+  },
+  {
+    "ID": 231,
+    "Ten": "Cá liệt mõm ngắn",
+    "TenKhoaHoc": "Leiognathus brevirostris (Valenciennes, 1835)",
+    "ChiID": 100
+  },
+  {
+    "ID": 230,
+    "Ten": "Cá liệt trắng",
+    "TenKhoaHoc": "Leiognathus leuciscus (Gunther, 1860)",
+    "ChiID": 100
+  },
+  {
+    "ID": 229,
+    "Ten": "Cá dơi hai chấm",
+    "TenKhoaHoc": "Scolopsis bimaculatus Ruppell, 1828",
+    "ChiID": 99
+  },
+  {
+    "ID": 228,
+    "Ten": "Cá lượng răng sấu",
+    "TenKhoaHoc": "Nemipterus hexodon (Quoy & Gaimard, 1824)",
+    "ChiID": 98
+  },
+  {
+    "ID": 227,
+    "Ten": "Cá lượng vằn",
+    "TenKhoaHoc": "Nemipterus tolu (Valenciennes 1830)",
+    "ChiID": 98
+  },
+  {
+    "ID": 226,
+    "Ten": "Cá miền đuôi vàng",
+    "TenKhoaHoc": "Caesio erythrogaster Cuvier, 1830",
+    "ChiID": 97
+  },
+  {
+    "ID": 225,
+    "Ten": "Cá bè",
+    "TenKhoaHoc": "Scomberoides lysan (Forskal, 1775)",
+    "ChiID": 96
+  },
+  {
+    "ID": 224,
+    "Ten": "Cá bè phương đông",
+    "TenKhoaHoc": "Scomberoides orientalis (Temminck & Schlegel, 1844)",
+    "ChiID": 96
+  },
+  {
+    "ID": 223,
+    "Ten": "Cá tráo vây đen",
+    "TenKhoaHoc": "Atule malam (Bleeker, 1851)",
+    "ChiID": 95
+  },
+  {
+    "ID": 222,
+    "Ten": "Cá bao áo",
+    "TenKhoaHoc": "Atropus atropus (Bloch &Schneider, 1801)",
+    "ChiID": 94
+  },
+  {
+    "ID": 220,
+    "Ten": "Cá ong",
+    "TenKhoaHoc": "Pelates quadrilineatus (Bloch, 1790)",
+    "ChiID": 92
+  },
+  {
+    "ID": 219,
+    "Ten": "Cá căng vảy nhỏ",
+    "TenKhoaHoc": "Therapon putta Cuvier, 1829",
+    "ChiID": 91
+  },
+  {
+    "ID": 218,
+    "Ten": "Cá căng vảy to",
+    "TenKhoaHoc": "Therapon theraps Cuvier, 1829",
+    "ChiID": 91
+  },
+  {
+    "ID": 217,
+    "Ten": "Cá mú nghệ",
+    "TenKhoaHoc": "Diphloprion bifasciatum (Kuhl & Hasselt, 1828)",
+    "ChiID": 90
+  },
+  {
+    "ID": 216,
+    "Ten": "Cá mú than",
+    "TenKhoaHoc": "Cephalopholis pachycentron (Valenciennes, 1828)",
+    "ChiID": 89
+  },
+  {
+    "ID": 215,
+    "Ten": "Cá chẽm",
+    "TenKhoaHoc": "Lates calcarifer (Bloch, 1970)",
+    "ChiID": 88
+  },
+  {
+    "ID": 214,
+    "Ten": "Cá sơn đầu trọc",
+    "TenKhoaHoc": "Ambassis gynocephalus (Lacépède, 1803)",
+    "ChiID": 87
+  },
+  {
+    "ID": 213,
+    "Ten": "Cá nhụ chấm",
+    "TenKhoaHoc": "Polynemus sextarius (Bloch & Schneider, 1801)",
+    "ChiID": 86
+  },
+  {
+    "ID": 212,
+    "Ten": "Cá nhụ bốn râu",
+    "TenKhoaHoc": "Eleutheronema tetradactylum Shaw, 1804",
+    "ChiID": 85
+  },
+  {
+    "ID": 211,
+    "Ten": "Cá suốt đầu dẹt",
+    "TenKhoaHoc": "Atherina bleekeri Gunther, 1861",
+    "ChiID": 84
+  },
+  {
+    "ID": 210,
+    "Ten": "Cá đối mục",
+    "TenKhoaHoc": "Mugil cephalus Linnaeus, 1758",
+    "ChiID": 83
+  },
+  {
+    "ID": 209,
+    "Ten": "Cá đối vẩy to",
+    "TenKhoaHoc": "Liza macrolepis (Smith, 1846)",
+    "ChiID": 82
+  },
+  {
+    "ID": 208,
+    "Ten": "Cá đối lưng gờ",
+    "TenKhoaHoc": "Liza carinata (Valenciennes, 1836)",
+    "ChiID": 82
+  },
+  {
+    "ID": 207,
+    "Ten": "Cá kìm đúc-xu",
+    "TenKhoaHoc": "Hyporhamphus dussumieri (Valenciennes, 1847)",
+    "ChiID": 81
+  },
+  {
+    "ID": 206,
+    "Ten": "Cá kìm chấm",
+    "TenKhoaHoc": "Hemirhamphus far (Forskal, 1775)",
+    "ChiID": 80
+  },
+  {
+    "ID": 205,
+    "Ten": "Cá nhói lưng đen",
+    "TenKhoaHoc": "Tylosaurus melanotus (Bleeker, 1850)",
+    "ChiID": 79
+  },
+  {
+    "ID": 204,
+    "Ten": "Cá chình rắn mõm nhọn",
+    "TenKhoaHoc": "Ophichthys apicalis (Bennett, 1830)",
+    "ChiID": 78
+  },
+  {
+    "ID": 203,
+    "Ten": "Cá dưa xám",
+    "TenKhoaHoc": "Muraenesox cinereus (Forskal, 1775)",
+    "ChiID": 77
+  },
+  {
+    "ID": 202,
+    "Ten": "Cá úc đầu cứng",
+    "TenKhoaHoc": "Arius leiotetocephalus Bleeker, 1846",
+    "ChiID": 76
+  },
+  {
+    "ID": 201,
+    "Ten": "Cá trê biển",
+    "TenKhoaHoc": "Plotosus lineatus (Thunberg, 1787)",
+    "ChiID": 75
+  },
+  {
+    "ID": 200,
+    "Ten": "Cá ngát",
+    "TenKhoaHoc": "Plotosus anguillaris (Bloch, 1794)",
+    "ChiID": 75
+  },
+  {
+    "ID": 199,
+    "Ten": "Cá khoai",
+    "TenKhoaHoc": "Harpadon nehereus (Ham. & Buch., 1822)",
+    "ChiID": 74
+  },
+  {
+    "ID": 198,
+    "Ten": "Cá lanh hàm dài",
+    "TenKhoaHoc": "Chirocentrus nudus (Swainson, 1839)",
+    "ChiID": 73
+  },
+  {
+    "ID": 197,
+    "Ten": "Cá lẹp đỏ",
+    "TenKhoaHoc": "Thryssa dussumieri (Cuv. & Val.)",
+    "ChiID": 72
+  },
+  {
+    "ID": 196,
+    "Ten": "Cá cơm thường",
+    "TenKhoaHoc": "Stolephorus commersonii (Lacépède, 1803)",
+    "ChiID": 71
+  },
+  {
+    "ID": 195,
+    "Ten": "Cá cơm trung hoa",
+    "TenKhoaHoc": "Stolephorus chinensis (Lacépède, 1803)",
+    "ChiID": 71
+  },
+  {
+    "ID": 194,
+    "Ten": "Cá trích",
+    "TenKhoaHoc": "Harengula ovalis (Bennett, 1830)",
+    "ChiID": 70
+  },
+  {
+    "ID": 193,
+    "Ten": "Cá mòi mõm tròn",
+    "TenKhoaHoc": "Nematolosa nasus (Bloch, 1795)",
+    "ChiID": 69
+  },
+  {
+    "ID": 192,
+    "Ten": "Cá mòi cờ chấm",
+    "TenKhoaHoc": "Konosirus punctatus (Temminck & Schlegel, 1846)",
+    "ChiID": 68
+  },
+  {
+    "ID": 191,
+    "Ten": "Cá trích xương",
+    "TenKhoaHoc": "Sardinella jussieu (Lacepède, 1803)",
+    "ChiID": 67
+  },
+  {
+    "ID": 190,
+    "Ten": "Cá mòi cờ hoa",
+    "TenKhoaHoc": "Clupanodon thrissa (Linnaeus, 1758)",
+    "ChiID": 66
+  },
+  {
+    "ID": 189,
+    "Ten": "Cá mòi chấm",
+    "TenKhoaHoc": "Clupanodon punctutus (Schlegel & Temminck 1846)",
+    "ChiID": 66
+  },
+  {
+    "ID": 188,
+    "Ten": "Cá cháo",
+    "TenKhoaHoc": "Elops saurus Linnaeus, 1766",
+    "ChiID": 65
+  },
+  {
+    "ID": 187,
+    "Ten": "Rong túi giả",
+    "TenKhoaHoc": "Valoniopsis pachynema",
+    "ChiID": 37
+  },
+  {
+    "ID": 186,
+    "Ten": "Rong đại bào",
+    "TenKhoaHoc": "Valonia ventricosa",
+    "ChiID": 37
+  },
+  {
+    "ID": 185,
+    "Ten": "Rong đại bào túi",
+    "TenKhoaHoc": "Valonia utricularis",
+    "ChiID": 37
+  },
+  {
+    "ID": 184,
+    "Ten": "Rong đại bào thô",
+    "TenKhoaHoc": "Valonia macrophysa",
+    "ChiID": 37
+  },
+  {
+    "ID": 183,
+    "Ten": "Rong đại bào bó",
+    "TenKhoaHoc": "Valonia fastigiata",
+    "ChiID": 37
+  },
+  {
+    "ID": 182,
+    "Ten": "Rong đại bào dề",
+    "TenKhoaHoc": "Valonia aegagropila",
+    "ChiID": 37
+  },
+  {
+    "ID": 181,
+    "Ten": "Rong Cải biển",
+    "TenKhoaHoc": "Ulva reticulata",
+    "ChiID": 36
+  },
+  {
+    "ID": 180,
+    "Ten": "Rong Cải biển",
+    "TenKhoaHoc": "Ulva papenfussii",
+    "ChiID": 36
+  },
+  {
+    "ID": 179,
+    "Ten": "Rong Cải biển nhăn",
+    "TenKhoaHoc": "Ulva lactuca",
+    "ChiID": 36
+  },
+  {
+    "ID": 178,
+    "Ten": "Rong Cải biển lỗ",
+    "TenKhoaHoc": "Ulva fenestrata",
+    "ChiID": 36
+  },
+  {
+    "ID": 177,
+    "Ten": "Rong Cải biển bó",
+    "TenKhoaHoc": "Ulva fasciata",
+    "ChiID": 36
+  },
+  {
+    "ID": 176,
+    "Ten": "Rong Cải biển hoa",
+    "TenKhoaHoc": "Ulva conglobata",
+    "ChiID": 36
+  },
+  {
+    "ID": 175,
+    "Ten": "Rong Hải nữ",
+    "TenKhoaHoc": "Ulothrix flaceae",
+    "ChiID": 35
+  },
+  {
+    "ID": 174,
+    "Ten": "Rong Hải nữ",
+    "TenKhoaHoc": "Udotea orientalis",
+    "ChiID": 34
+  },
+  {
+    "ID": 173,
+    "Ten": "Rong Hải nữ",
+    "TenKhoaHoc": "Udotea javensis",
+    "ChiID": 34
+  },
+  {
+    "ID": 172,
+    "Ten": "Rong Hải nữ",
+    "TenKhoaHoc": "Udotea glaucescens",
+    "ChiID": 34
+  },
+  {
+    "ID": 171,
+    "Ten": "Rong vỉ lưới",
+    "TenKhoaHoc": "Struvea deliceatula",
+    "ChiID": 33
+  },
+  {
+    "ID": 170,
+    "Ten": "Rong vỉ lưới",
+    "TenKhoaHoc": "Struvea anastomosans",
+    "ChiID": 33
+  },
+  {
+    "ID": 169,
+    "Ten": "Rong rễ nhánh gấp khúc",
+    "TenKhoaHoc": "Rhizoclonium tortuosum",
+    "ChiID": 32
+  },
+  {
+    "ID": 168,
+    "Ten": "Rong rễ nhánh sông",
+    "TenKhoaHoc": "Rhizoclonium riparium",
+    "ChiID": 32
+  },
+  {
+    "ID": 167,
+    "Ten": "Rong rễ nhánh cochia",
+    "TenKhoaHoc": "Rhizoclonium kochianum",
+    "ChiID": 32
+  },
+  {
+    "ID": 166,
+    "Ten": "Rong rễ nhánh kerner",
+    "TenKhoaHoc": "Rhizoclonium kerneri",
+    "ChiID": 32
+  },
+  {
+    "ID": 165,
+    "Ten": "Rong rễ nhánh lớn",
+    "TenKhoaHoc": "Rhizoclonium grande",
+    "ChiID": 32
+  },
+  {
+    "ID": 164,
+    "Ten": "Rong Hải nữ java",
+    "TenKhoaHoc": "Rhipidosiphon javensis",
+    "ChiID": 31
+  },
+  {
+    "ID": 163,
+    "Ten": "Rong giả lục châu",
+    "TenKhoaHoc": "Pseudochlorodesmis furcellata",
+    "ChiID": 30
+  },
+  {
+    "ID": 162,
+    "Ten": "Rong giả lục tùng nhỏ",
+    "TenKhoaHoc": "Pseudobryopsis parva",
+    "ChiID": 29
+  },
+  {
+    "ID": 161,
+    "Ten": "Rong giả lục tùng có mũi",
+    "TenKhoaHoc": "Pseudobryopsis mucronata",
+    "ChiID": 29
+  },
+  {
+    "ID": 160,
+    "Ten": "Rong Hải bút",
+    "TenKhoaHoc": "Penicillus sibogae",
+    "ChiID": 28
+  },
+  {
+    "ID": 159,
+    "Ten": "Rong tân tiết ngán",
+    "TenKhoaHoc": "Neomeris vanbosseae",
+    "ChiID": 27
+  },
+  {
+    "ID": 158,
+    "Ten": "Rong tân tiết ngán",
+    "TenKhoaHoc": "Neomeris vanbossa",
+    "ChiID": 27
+  },
+  {
+    "ID": 157,
+    "Ten": "Rong tân tiết ngán",
+    "TenKhoaHoc": "Neomeris annulata",
+    "ChiID": 27
+  },
+  {
+    "ID": 156,
+    "Ten": "Rong Giấy",
+    "TenKhoaHoc": "Monostroma oxyspenrmum",
+    "ChiID": 26
+  },
+  {
+    "ID": 155,
+    "Ten": "Rong Giấy",
+    "TenKhoaHoc": "Monostroma nitidum",
+    "ChiID": 26
+  },
+  {
+    "ID": 154,
+    "Ten": "Rong Mạng lưới",
+    "TenKhoaHoc": "Microdictyon okamurai",
+    "ChiID": 25
+  },
+  {
+    "ID": 153,
+    "Ten": "Rong Mạng lưới",
+    "TenKhoaHoc": "Microdictyon nigrescens",
+    "ChiID": 25
+  },
+  {
+    "ID": 152,
+    "Ten": "Rong Hải cốt",
+    "TenKhoaHoc": "Halimeda velasquezii",
+    "ChiID": 24
+  },
+  {
+    "ID": 151,
+    "Ten": "Rong Hải cốt",
+    "TenKhoaHoc": "Halimeda tuna",
+    "ChiID": 24
+  },
+  {
+    "ID": 150,
+    "Ten": "Rong Hải cốt",
+    "TenKhoaHoc": "Halimeda opuntia",
+    "ChiID": 24
+  },
+  {
+    "ID": 149,
+    "Ten": "Rong Hải cốt",
+    "TenKhoaHoc": "Halimeda macroloba",
+    "ChiID": 24
+  },
+  {
+    "ID": 148,
+    "Ten": "Rong Hải cốt",
+    "TenKhoaHoc": "Halimeda discoidea",
+    "ChiID": 24
+  },
+  {
+    "ID": 147,
+    "Ten": "Rong Hải cốt",
+    "TenKhoaHoc": "Halimeda cuneata f. digitata",
+    "ChiID": 24
+  },
+  {
+    "ID": 146,
+    "Ten": "Rong Diêm nang",
+    "TenKhoaHoc": "Halicystis pyriformis",
+    "ChiID": 23
+  },
+  {
+    "ID": 145,
+    "Ten": "Rong nội mạng xanh",
+    "TenKhoaHoc": "Entocladia viridis",
+    "ChiID": 22
+  },
+  {
+    "ID": 144,
+    "Ten": "Rong Bún ống",
+    "TenKhoaHoc": "Enteromorpha tubulosa",
+    "ChiID": 21
+  },
+  {
+    "ID": 143,
+    "Ten": "Rong Bún xoắn",
+    "TenKhoaHoc": "Enteromorpha torta",
+    "ChiID": 21
+  },
+  {
+    "ID": 142,
+    "Ten": "Rong Bún cuống Cát Bà",
+    "TenKhoaHoc": "Enteromorpha stipitatat var. catbaensis",
+    "ChiID": 21
+  },
+  {
+    "ID": 141,
+    "Ten": "Rong Bún dài",
+    "TenKhoaHoc": "Enteromorpha prolifera",
+    "ChiID": 21
+  },
+  {
+    "ID": 140,
+    "Ten": "Rong Bún lông",
+    "TenKhoaHoc": "Enteromorpha pilifera",
+    "ChiID": 21
+  },
+  {
+    "ID": 139,
+    "Ten": "Rong Bún kylin",
+    "TenKhoaHoc": "Enteromorpha kylinii",
+    "ChiID": 21
+  },
+  {
+    "ID": 138,
+    "Ten": "Rong Bún",
+    "TenKhoaHoc": "Enteromorpha intestinalis",
+    "ChiID": 21
+  },
+  {
+    "ID": 137,
+    "Ten": "Rong Bún gấp khúc",
+    "TenKhoaHoc": "Enteromorpha flexuosa",
+    "ChiID": 21
+  },
+  {
+    "ID": 136,
+    "Ten": "Rong Bún thắt",
+    "TenKhoaHoc": "Enteromorpha compressa",
+    "ChiID": 21
+  },
+  {
+    "ID": 135,
+    "Ten": "Rong Bún nhiều nhánh",
+    "TenKhoaHoc": "Enteromorpha clathrata",
+    "ChiID": 21
+  },
+  {
+    "ID": 134,
+    "Ten": "Rong Bún sợi",
+    "TenKhoaHoc": "Enteromorpha chaetomorphoides",
+    "ChiID": 21
+  },
+  {
+    "ID": 133,
+    "Ten": "Rong võng cầu verluys",
+    "TenKhoaHoc": "Dictyosphaeria versluysii",
+    "ChiID": 20
+  },
+  {
+    "ID": 132,
+    "Ten": "Rong võng cầu ",
+    "TenKhoaHoc": "Dictyosphaeria setchellii",
+    "ChiID": 20
+  },
+  {
+    "ID": 131,
+    "Ten": "Rong võng cầu bộng",
+    "TenKhoaHoc": "Dictyosphaeria cavernosa",
+    "ChiID": 20
+  },
+  {
+    "ID": 130,
+    "Ten": "Rong Điệp bích",
+    "TenKhoaHoc": "Derbesia marina",
+    "ChiID": 19
+  },
+  {
+    "ID": 129,
+    "Ten": "Rong Điệp bích",
+    "TenKhoaHoc": "Derbesia attenuata",
+    "ChiID": 19
+  },
+  {
+    "ID": 128,
+    "Ten": "Rong nhung mịn",
+    "TenKhoaHoc": "Codium tenue",
+    "ChiID": 18
+  },
+  {
+    "ID": 127,
+    "Ten": "Rong nhung",
+    "TenKhoaHoc": "Codium repens",
+    "ChiID": 18
+  },
+  {
+    "ID": 126,
+    "Ten": "Rong nhung",
+    "TenKhoaHoc": "Codium mamillosum",
+    "ChiID": 18
+  },
+  {
+    "ID": 125,
+    "Ten": "Rong nhung",
+    "TenKhoaHoc": "Codium geppiorum",
+    "ChiID": 18
+  },
+  {
+    "ID": 124,
+    "Ten": "Rong nhung ả rập",
+    "TenKhoaHoc": "Codium arabicum",
+    "ChiID": 18
+  },
+  {
+    "ID": 123,
+    "Ten": "Rong nhung dính",
+    "TenKhoaHoc": "Codium adharens",
+    "ChiID": 18
+  },
+  {
+    "ID": 122,
+    "Ten": "Veneridae sp.1",
+    "TenKhoaHoc": "Veneridae sp.1",
+    "ChiID": 64
+  },
+  {
+    "ID": 355,
+    "Ten": "Veneridae sp.1",
+    "TenKhoaHoc": "Veneridae sp.1",
+    "ChiID": 64
+  },
+  {
+    "ID": 337,
+    "Ten": "Veneridae sp.1",
+    "TenKhoaHoc": "Veneridae sp.1",
+    "ChiID": 64
+  },
+  {
+    "ID": 121,
+    "Ten": "Varuna yui Hwang and Takeda, 1984",
+    "TenKhoaHoc": "Varuna yui Hwang and Takeda, 1984",
+    "ChiID": 63
+  },
+  {
+    "ID": 120,
+    "Ten": "Sermyla tornatella Yen, 1939",
+    "TenKhoaHoc": "Sermyla tornatella Yen, 1939",
+    "ChiID": 62
+  },
+  {
+    "ID": 336,
+    "Ten": "Sermyla tornatella Yen, 1939",
+    "TenKhoaHoc": "Sermyla tornatella Yen, 1939",
+    "ChiID": 62
+  },
+  {
+    "ID": 354,
+    "Ten": "Sermyla tornatella Yen, 1939",
+    "TenKhoaHoc": "Sermyla tornatella Yen, 1939",
+    "ChiID": 62
+  },
+  {
+    "ID": 353,
+    "Ten": "Sermyla sp.1",
+    "TenKhoaHoc": "Sermyla sp.1",
+    "ChiID": 62
+  },
+  {
+    "ID": 335,
+    "Ten": "Sermyla sp.1",
+    "TenKhoaHoc": "Sermyla sp.1",
+    "ChiID": 62
+  },
+  {
+    "ID": 119,
+    "Ten": "Sermyla sp.1",
+    "TenKhoaHoc": "Sermyla sp.1",
+    "ChiID": 62
+  },
+  {
+    "ID": 118,
+    "Ten": "Semicassis japonica (Reeve, 1848)",
+    "TenKhoaHoc": "Semicassis japonica (Reeve, 1848)",
+    "ChiID": 61
+  },
+  {
+    "ID": 334,
+    "Ten": "Semicassis japonica (Reeve, 1848)",
+    "TenKhoaHoc": "Semicassis japonica (Reeve, 1848)",
+    "ChiID": 61
+  },
+  {
+    "ID": 352,
+    "Ten": "Semicassis japonica (Reeve, 1848)",
+    "TenKhoaHoc": "Semicassis japonica (Reeve, 1848)",
+    "ChiID": 61
+  },
+  {
+    "ID": 351,
+    "Ten": "Scapharca inaequivalvis (Bruguière, 1758)",
+    "TenKhoaHoc": "Scapharca inaequivalvis (Bruguière, 1758)",
+    "ChiID": 60
+  },
+  {
+    "ID": 333,
+    "Ten": "Scapharca inaequivalvis (Bruguière, 1758)",
+    "TenKhoaHoc": "Scapharca inaequivalvis (Bruguière, 1758)",
+    "ChiID": 60
+  },
+  {
+    "ID": 117,
+    "Ten": "Scapharca inaequivalvis (Bruguière, 1758)",
+    "TenKhoaHoc": "Scapharca inaequivalvis (Bruguière, 1758)",
+    "ChiID": 60
+  },
+  {
+    "ID": 116,
+    "Ten": "Prodasineura autumnalis (Fraser, 1922)",
+    "TenKhoaHoc": "Prodasineura autumnalis (Fraser, 1922)",
+    "ChiID": 59
+  },
+  {
+    "ID": 332,
+    "Ten": "Prodasineura autumnalis (Fraser, 1922)",
+    "TenKhoaHoc": "Prodasineura autumnalis (Fraser, 1922)",
+    "ChiID": 59
+  },
+  {
+    "ID": 350,
+    "Ten": "Prodasineura autumnalis (Fraser, 1922)",
+    "TenKhoaHoc": "Prodasineura autumnalis (Fraser, 1922)",
+    "ChiID": 59
+  },
+  {
+    "ID": 115,
+    "Ten": "Pliarcularia bellula (A. Adams, 1852)",
+    "TenKhoaHoc": "Pliarcularia bellula (A. Adams, 1852)",
+    "ChiID": 58
+  },
+  {
+    "ID": 114,
+    "Ten": "Olividae sp.1",
+    "TenKhoaHoc": "Olividae sp.1",
+    "ChiID": 57
+  },
+  {
+    "ID": 113,
+    "Ten": "Nerita albicilla Linne",
+    "TenKhoaHoc": "Nerita albicilla Linne",
+    "ChiID": 56
+  },
+  {
+    "ID": 112,
+    "Ten": "Nassariidae sp.1",
+    "TenKhoaHoc": "Nassariidae sp.1",
+    "ChiID": 55
+  },
+  {
+    "ID": 349,
+    "Ten": "Nassariidae sp.1",
+    "TenKhoaHoc": "Nassariidae sp.1",
+    "ChiID": 55
+  },
+  {
+    "ID": 331,
+    "Ten": "Nassariidae sp.1",
+    "TenKhoaHoc": "Nassariidae sp.1",
+    "ChiID": 55
+  },
+  {
+    "ID": 330,
+    "Ten": "Meretrix lyrata (Sowerby, 1851)",
+    "TenKhoaHoc": "Meretrix lyrata (Sowerby, 1851)",
+    "ChiID": 54
+  },
+  {
+    "ID": 348,
+    "Ten": "Meretrix lyrata (Sowerby, 1851)",
+    "TenKhoaHoc": "Meretrix lyrata (Sowerby, 1851)",
+    "ChiID": 54
+  },
+  {
+    "ID": 111,
+    "Ten": "Meretrix lyrata (Sowerby, 1851)",
+    "TenKhoaHoc": "Meretrix lyrata (Sowerby, 1851)",
+    "ChiID": 54
+  },
+  {
+    "ID": 110,
+    "Ten": "Meretrix meretrix (Linnaeus, 1758)",
+    "TenKhoaHoc": "Meretrix meretrix (Linnaeus, 1758)",
+    "ChiID": 54
+  },
+  {
+    "ID": 347,
+    "Ten": "Meretrix meretrix (Linnaeus, 1758)",
+    "TenKhoaHoc": "Meretrix meretrix (Linnaeus, 1758)",
+    "ChiID": 54
+  },
+  {
+    "ID": 329,
+    "Ten": "Meretrix meretrix (Linnaeus, 1758)",
+    "TenKhoaHoc": "Meretrix meretrix (Linnaeus, 1758)",
+    "ChiID": 54
+  },
+  {
+    "ID": 328,
+    "Ten": "Lymnaea swinhoei Adams, 1866",
+    "TenKhoaHoc": "Lymnaea swinhoei Adams, 1866",
+    "ChiID": 53
+  },
+  {
+    "ID": 346,
+    "Ten": "Lymnaea swinhoei Adams, 1866",
+    "TenKhoaHoc": "Lymnaea swinhoei Adams, 1866",
+    "ChiID": 53
+  },
+  {
+    "ID": 109,
+    "Ten": "Lymnaea swinhoei Adams, 1866",
+    "TenKhoaHoc": "Lymnaea swinhoei Adams, 1866",
+    "ChiID": 53
+  },
+  {
+    "ID": 108,
+    "Ten": "Leptocarpus potamiscus (Kemp, 1917)",
+    "TenKhoaHoc": "Leptocarpus potamiscus (Kemp, 1917)",
+    "ChiID": 52
+  },
+  {
+    "ID": 107,
+    "Ten": "Grapsus sp.1",
+    "TenKhoaHoc": "Grapsus sp.1",
+    "ChiID": 51
+  },
+  {
+    "ID": 106,
+    "Ten": "Episesarma singaporense (Tweedie, 1936)",
+    "TenKhoaHoc": "Episesarma singaporense (Tweedie, 1936)",
+    "ChiID": 50
+  },
+  {
+    "ID": 105,
+    "Ten": "Diplomychus",
+    "TenKhoaHoc": "Diplomychus",
+    "ChiID": 49
+  },
+  {
+    "ID": 104,
+    "Ten": "Diplacodes sp",
+    "TenKhoaHoc": "Diplacodes sp",
+    "ChiID": 48
+  },
+  {
+    "ID": 103,
+    "Ten": "Cyclophoridae sp.1",
+    "TenKhoaHoc": "Cyclophoridae sp.1",
+    "ChiID": 47
+  },
+  {
+    "ID": 102,
+    "Ten": "Clithon sp.1",
+    "TenKhoaHoc": "Clithon sp.1",
+    "ChiID": 46
+  },
+  {
+    "ID": 345,
+    "Ten": "Clithon sp.1",
+    "TenKhoaHoc": "Clithon sp.1",
+    "ChiID": 46
+  },
+  {
+    "ID": 327,
+    "Ten": "Clithon sp.1",
+    "TenKhoaHoc": "Clithon sp.1",
+    "ChiID": 46
+  },
+  {
+    "ID": 101,
+    "Ten": "Clithon faba (Sowerby, 1836)",
+    "TenKhoaHoc": "Clithon faba (Sowerby, 1836)",
+    "ChiID": 46
+  },
+  {
+    "ID": 100,
+    "Ten": "Cerithidea nodulosum (Bruguiere)",
+    "TenKhoaHoc": "Cerithidea nodulosum (Bruguiere)",
+    "ChiID": 45
+  },
+  {
+    "ID": 326,
+    "Ten": "Cerithidea nodulosum (Bruguiere)",
+    "TenKhoaHoc": "Cerithidea nodulosum (Bruguiere)",
+    "ChiID": 45
+  },
+  {
+    "ID": 344,
+    "Ten": "Cerithidea nodulosum (Bruguiere)",
+    "TenKhoaHoc": "Cerithidea nodulosum (Bruguiere)",
+    "ChiID": 45
+  },
+  {
+    "ID": 99,
+    "Ten": "Cerithidea cingulata",
+    "TenKhoaHoc": "Cerithidea cingulata",
+    "ChiID": 45
+  },
+  {
+    "ID": 98,
+    "Ten": "Cerithidea sp.1",
+    "TenKhoaHoc": "Cerithidea sp.1",
+    "ChiID": 45
+  },
+  {
+    "ID": 97,
+    "Ten": "Caridina tonkinensis Bouvier, 1919",
+    "TenKhoaHoc": "Caridina tonkinensis Bouvier, 1919",
+    "ChiID": 44
+  },
+  {
+    "ID": 96,
+    "Ten": "Caridina subnilotica Dang, 1975",
+    "TenKhoaHoc": "Caridina subnilotica Dang, 1975",
+    "ChiID": 44
+  },
+  {
+    "ID": 343,
+    "Ten": "Caridina subnilotica Dang, 1975",
+    "TenKhoaHoc": "Caridina subnilotica Dang, 1975",
+    "ChiID": 44
+  },
+  {
+    "ID": 325,
+    "Ten": "Caridina subnilotica Dang, 1975",
+    "TenKhoaHoc": "Caridina subnilotica Dang, 1975",
+    "ChiID": 44
+  },
+  {
+    "ID": 95,
+    "Ten": "Caridina sp",
+    "TenKhoaHoc": "Caridina sp",
+    "ChiID": 44
+  },
+  {
+    "ID": 94,
+    "Ten": "Buforaria rana",
+    "TenKhoaHoc": "Buforaria rana",
+    "ChiID": 43
+  },
+  {
+    "ID": 93,
+    "Ten": "Belliidae sp.1",
+    "TenKhoaHoc": "Belliidae sp.1",
+    "ChiID": 42
+  },
+  {
+    "ID": 92,
+    "Ten": "Batillaria zonalis (Bruguière, 1792)",
+    "TenKhoaHoc": "Batillaria zonalis (Bruguière, 1792)",
+    "ChiID": 41
+  },
+  {
+    "ID": 324,
+    "Ten": "Batillaria zonalis (Bruguière, 1792)",
+    "TenKhoaHoc": "Batillaria zonalis (Bruguière, 1792)",
+    "ChiID": 41
+  },
+  {
+    "ID": 342,
+    "Ten": "Batillaria zonalis (Bruguière, 1792)",
+    "TenKhoaHoc": "Batillaria zonalis (Bruguière, 1792)",
+    "ChiID": 41
+  },
+  {
+    "ID": 91,
+    "Ten": "Batillaria sp",
+    "TenKhoaHoc": "Batillaria sp",
+    "ChiID": 41
+  },
+  {
+    "ID": 90,
+    "Ten": "Assiminea brevicula Pfeiffer, 1854",
+    "TenKhoaHoc": "Assiminea brevicula Pfeiffer, 1854",
+    "ChiID": 40
+  },
+  {
+    "ID": 341,
+    "Ten": "Assiminea brevicula Pfeiffer, 1854",
+    "TenKhoaHoc": "Assiminea brevicula Pfeiffer, 1854",
+    "ChiID": 40
+  },
+  {
+    "ID": 323,
+    "Ten": "Assiminea brevicula Pfeiffer, 1854",
+    "TenKhoaHoc": "Assiminea brevicula Pfeiffer, 1854",
+    "ChiID": 40
+  },
+  {
+    "ID": 322,
+    "Ten": "Aristaeomorpha sp",
+    "TenKhoaHoc": "Aristaeomorpha sp",
+    "ChiID": 39
+  },
+  {
+    "ID": 340,
+    "Ten": "Aristaeomorpha sp",
+    "TenKhoaHoc": "Aristaeomorpha sp",
+    "ChiID": 39
+  },
+  {
+    "ID": 89,
+    "Ten": "Aristaeomorpha sp",
+    "TenKhoaHoc": "Aristaeomorpha sp",
+    "ChiID": 39
+  },
+  {
+    "ID": 88,
+    "Ten": "Aristaeomorpha foliacea (Risso, 1827)",
+    "TenKhoaHoc": "Aristaeomorpha foliacea (Risso, 1827)",
+    "ChiID": 39
+  },
+  {
+    "ID": 339,
+    "Ten": "Aristaeomorpha foliacea (Risso, 1827)",
+    "TenKhoaHoc": "Aristaeomorpha foliacea (Risso, 1827)",
+    "ChiID": 39
+  },
+  {
+    "ID": 321,
+    "Ten": "Aristaeomorpha foliacea (Risso, 1827)",
+    "TenKhoaHoc": "Aristaeomorpha foliacea (Risso, 1827)",
+    "ChiID": 39
+  },
+  {
+    "ID": 320,
+    "Ten": "Anadara nodifera (Martens, 1860)",
+    "TenKhoaHoc": "Anadara nodifera (Martens, 1860)",
+    "ChiID": 38
+  },
+  {
+    "ID": 338,
+    "Ten": "Anadara nodifera (Martens, 1860)",
+    "TenKhoaHoc": "Anadara nodifera (Martens, 1860)",
+    "ChiID": 38
+  },
+  {
+    "ID": 87,
+    "Ten": "Anadara nodifera (Martens, 1860)",
+    "TenKhoaHoc": "Anadara nodifera (Martens, 1860)",
+    "ChiID": 38
+  },
+  {
+    "ID": 86,
+    "Ten": "Anadara antiquata Linnaeus, 1758",
+    "TenKhoaHoc": "Anadara antiquata Linnaeus, 1758",
+    "ChiID": 38
+  },
+  {
+    "ID": 85,
+    "Ten": "Rong lông cứng",
+    "TenKhoaHoc": "Cladophoropsis sudanensis",
+    "ChiID": 17
+  },
+  {
+    "ID": 84,
+    "Ten": "Rong lông cứng",
+    "TenKhoaHoc": "Cladophoropsis membrannacea",
+    "ChiID": 17
+  },
+  {
+    "ID": 83,
+    "Ten": "Rong lông cứng",
+    "TenKhoaHoc": "Cladophoropsis herpestica",
+    "ChiID": 17
+  },
+  {
+    "ID": 82,
+    "Ten": "Rong lông cứng",
+    "TenKhoaHoc": "Cladophoropsis adhaerens",
+    "ChiID": 17
+  },
+  {
+    "ID": 81,
+    "Ten": "Rong lông cứng",
+    "TenKhoaHoc": "Cladophora taxifolia",
+    "ChiID": 16
+  },
+  {
+    "ID": 80,
+    "Ten": "Rong lông cứng",
+    "TenKhoaHoc": "Cladophora socialis",
+    "ChiID": 16
+  },
+  {
+    "ID": 79,
+    "Ten": "Rong lông cứng",
+    "TenKhoaHoc": "Cladophora serrulata",
+    "ChiID": 16
+  },
+  {
+    "ID": 78,
+    "Ten": "Rong lông cứng nhăn",
+    "TenKhoaHoc": "Cladophora rugulosa",
+    "ChiID": 16
+  },
+  {
+    "ID": 77,
+    "Ten": "Rong lông cứng xòe",
+    "TenKhoaHoc": "Cladophora patentiramea",
+    "ChiID": 16
+  },
+  {
+    "ID": 76,
+    "Ten": "Rong lông cứng",
+    "TenKhoaHoc": "Cladophora lomerata",
+    "ChiID": 16
+  },
+  {
+    "ID": 75,
+    "Ten": "Rong lông cứng xanh đậm",
+    "TenKhoaHoc": "Cladophora laetevirens",
+    "ChiID": 16
+  },
+  {
+    "ID": 74,
+    "Ten": "Rong lông cứng",
+    "TenKhoaHoc": "Cladophora inserta",
+    "ChiID": 16
+  },
+  {
+    "ID": 73,
+    "Ten": "Rong lông cứng",
+    "TenKhoaHoc": "Cladophora gracilis",
+    "ChiID": 16
+  },
+  {
+    "ID": 72,
+    "Ten": "Rong lông cứng",
+    "TenKhoaHoc": "Cladophora glaucescens",
+    "ChiID": 16
+  },
+  {
+    "ID": 71,
+    "Ten": "Rong lông cứng chùm",
+    "TenKhoaHoc": "Cladophora fasciculata",
+    "ChiID": 16
+  },
+  {
+    "ID": 70,
+    "Ten": "Rong lông cứng quăn",
+    "TenKhoaHoc": "Cladophora crispula",
+    "ChiID": 16
+  },
+  {
+    "ID": 69,
+    "Ten": "Rong lông cứng",
+    "TenKhoaHoc": "Cladophora coclothrix",
+    "ChiID": 16
+  },
+  {
+    "ID": 68,
+    "Ten": "Rong lông cứng nhợt",
+    "TenKhoaHoc": "Cladophora albida",
+    "ChiID": 16
+  },
+  {
+    "ID": 67,
+    "Ten": "Rong lục châu",
+    "TenKhoaHoc": "Chlorodesmis tennuie",
+    "ChiID": 15
+  },
+  {
+    "ID": 66,
+    "Ten": "Rong lục châu",
+    "TenKhoaHoc": "Chlorodesmis repens",
+    "ChiID": 15
+  },
+  {
+    "ID": 65,
+    "Ten": "Rong lục châu",
+    "TenKhoaHoc": "Chlorodesmis hildebrandtii",
+    "ChiID": 15
+  },
+  {
+    "ID": 64,
+    "Ten": "Rong lục châu",
+    "TenKhoaHoc": "Chlorodesmis dotyi",
+    "ChiID": 15
+  },
+  {
+    "ID": 63,
+    "Ten": "Rong tóc đốt vạch",
+    "TenKhoaHoc": "Chaetomorpha linum",
+    "ChiID": 14
+  },
+  {
+    "ID": 62,
+    "Ten": "Rong tóc",
+    "TenKhoaHoc": "Chaetomorpha javanica",
+    "ChiID": 14
+  },
+  {
+    "ID": 61,
+    "Ten": "Rong tóc",
+    "TenKhoaHoc": "Chaetomorpha indica",
+    "ChiID": 14
+  },
+  {
+    "ID": 60,
+    "Ten": "Rong tóc đốt thô",
+    "TenKhoaHoc": "Chaetomorpha crassa",
+    "ChiID": 14
+  },
+  {
+    "ID": 59,
+    "Ten": "Rong tóc đốt mảnh",
+    "TenKhoaHoc": "Chaetomorpha capillaris",
+    "ChiID": 14
+  },
+  {
+    "ID": 58,
+    "Ten": "Rong tóc",
+    "TenKhoaHoc": "Chaetomorpha aquerea",
+    "ChiID": 14
+  },
+  {
+    "ID": 57,
+    "Ten": "Rong tóc đốt cần",
+    "TenKhoaHoc": "Chaetomorpha antennina",
+    "ChiID": 14
+  },
+  {
+    "ID": 56,
+    "Ten": "Rong Guột",
+    "TenKhoaHoc": "Caulerpa vickersiae",
+    "ChiID": 13
+  },
+  {
+    "ID": 55,
+    "Ten": "Rong Guột vòng",
+    "TenKhoaHoc": "Caulerpa verticillata",
+    "ChiID": 13
+  },
+  {
+    "ID": 54,
+    "Ten": "Rong Guột luân sinh",
+    "TenKhoaHoc": "Caulerpa verticillata f. charoides",
+    "ChiID": 13
+  },
+  {
+    "ID": 53,
+    "Ten": "Rong Guột liềm",
+    "TenKhoaHoc": "Caulerpa taxifolia",
+    "ChiID": 13
+  },
+  {
+    "ID": 52,
+    "Ten": "Rong Guột lông chim",
+    "TenKhoaHoc": "Caulerpa sertularoides f. longipes",
+    "ChiID": 13
+  },
+  {
+    "ID": 51,
+    "Ten": "Rong Guột",
+    "TenKhoaHoc": "Caulerpa serrulata var. serrulata f. lata",
+    "ChiID": 13
+  },
+  {
+    "ID": 50,
+    "Ten": "Rong Guột",
+    "TenKhoaHoc": "Caulerpa serrulata var. pentata",
+    "ChiID": 13
+  },
+  {
+    "ID": 49,
+    "Ten": "Rong Guột",
+    "TenKhoaHoc": "Caulerpa serrulata var. lamourouxii",
+    "ChiID": 13
+  },
+  {
+    "ID": 48,
+    "Ten": "Rong Guột răng cưa",
+    "TenKhoaHoc": "Caulerpa serrulata var. boryana",
+    "ChiID": 13
+  },
+  {
+    "ID": 47,
+    "Ten": "Rong Guột răng cưa",
+    "TenKhoaHoc": "Caulerpa serrulata",
+    "ChiID": 13
+  },
+  {
+    "ID": 46,
+    "Ten": "Rong Guột",
+    "TenKhoaHoc": "Caulerpa scalpelliformis",
+    "ChiID": 13
+  },
+  {
+    "ID": 45,
+    "Ten": "Rong Guột",
+    "TenKhoaHoc": "Caulerpa racemosa var. peltata",
+    "ChiID": 13
+  },
+  {
+    "ID": 44,
+    "Ten": "Rong Guột",
+    "TenKhoaHoc": "Caulerpa racemosa var. lamourouxii",
+    "ChiID": 13
+  },
+  {
+    "ID": 43,
+    "Ten": "Rong Guột",
+    "TenKhoaHoc": "Caulerpa racemosa var. laete-virens",
+    "ChiID": 13
+  },
+  {
+    "ID": 42,
+    "Ten": "Rong Guột chùm",
+    "TenKhoaHoc": "Caulerpa racemosa var. clavifera f. macrophysa",
+    "ChiID": 13
+  },
+  {
+    "ID": 41,
+    "Ten": "Rong Guột chùm",
+    "TenKhoaHoc": "Caulerpa racemosa",
+    "ChiID": 13
+  },
+  {
+    "ID": 40,
+    "Ten": "Rong Guột tán",
+    "TenKhoaHoc": "Caulerpa peltata",
+    "ChiID": 13
+  },
+  {
+    "ID": 39,
+    "Ten": "Rong Guột",
+    "TenKhoaHoc": "Caulerpa microphysa",
+    "ChiID": 13
+  },
+  {
+    "ID": 38,
+    "Ten": "Rong Guột",
+    "TenKhoaHoc": "Caulerpa mexicana",
+    "ChiID": 13
+  },
+  {
+    "ID": 37,
+    "Ten": "Rong Guột",
+    "TenKhoaHoc": "Caulerpa macrodisca",
+    "ChiID": 13
+  },
+  {
+    "ID": 36,
+    "Ten": "Rong Guột bi nhỏ",
+    "TenKhoaHoc": "Caulerpa lentillifera",
+    "ChiID": 13
+  },
+  {
+    "ID": 35,
+    "Ten": "Rong Guột",
+    "TenKhoaHoc": "Caulerpa holmesiana",
+    "ChiID": 13
+  },
+  {
+    "ID": 34,
+    "Ten": "Rong Guột đỉnh",
+    "TenKhoaHoc": "Caulerpa fastigiata",
+    "ChiID": 13
+  },
+  {
+    "ID": 33,
+    "Ten": "Rong Guột",
+    "TenKhoaHoc": "Caulerpa cupressoides",
+    "ChiID": 13
+  },
+  {
+    "ID": 32,
+    "Ten": "Rong Guột",
+    "TenKhoaHoc": "Caulerpa crassifolia",
+    "ChiID": 13
+  },
+  {
+    "ID": 31,
+    "Ten": "Rong Guột",
+    "TenKhoaHoc": "Caulerpa brachypus f. parvifolia",
+    "ChiID": 13
+  },
+  {
+    "ID": 30,
+    "Ten": "Rong Guột",
+    "TenKhoaHoc": "Caulerpa ambigua",
+    "ChiID": 13
+  },
+  {
+    "ID": 29,
+    "Ten": "Rong lông chim tam giác",
+    "TenKhoaHoc": "Bryopsis plumosa",
+    "ChiID": 12
+  },
+  {
+    "ID": 28,
+    "Ten": "Rong lông chim",
+    "TenKhoaHoc": "Bryopsis pennata",
+    "ChiID": 12
+  },
+  {
+    "ID": 27,
+    "Ten": "Rong lông chim mềm",
+    "TenKhoaHoc": "Bryopsis harveyana",
+    "ChiID": 12
+  },
+  {
+    "ID": 26,
+    "Ten": "Rong biệt nang tròn",
+    "TenKhoaHoc": "Bornetella sphaerica",
+    "ChiID": 11
+  },
+  {
+    "ID": 25,
+    "Ten": "Rong biệt nang",
+    "TenKhoaHoc": "Bornetella oligospora",
+    "ChiID": 11
+  },
+  {
+    "ID": 24,
+    "Ten": "Rong biệt nang",
+    "TenKhoaHoc": "Bornetella nitida",
+    "ChiID": 11
+  },
+  {
+    "ID": 23,
+    "Ten": "Rong Búp",
+    "TenKhoaHoc": "Boodlea siamensis",
+    "ChiID": 10
+  },
+  {
+    "ID": 22,
+    "Ten": "Rong Búp đều",
+    "TenKhoaHoc": "Boodlea composita",
+    "ChiID": 10
+  },
+  {
+    "ID": 21,
+    "Ten": "Rong Búp",
+    "TenKhoaHoc": "Boodlea coacta",
+    "ChiID": 10
+  },
+  {
+    "ID": 20,
+    "Ten": "Boergesenia forbesii",
+    "TenKhoaHoc": "Boergesenia forbesii",
+    "ChiID": 9
+  },
+  {
+    "ID": 19,
+    "Ten": "Rong Cọ",
+    "TenKhoaHoc": "Avrainvillea obscula",
+    "ChiID": 8
+  },
+  {
+    "ID": 18,
+    "Ten": "Rong Cọ đứng",
+    "TenKhoaHoc": "Avrainvillea erecta",
+    "ChiID": 8
+  },
+  {
+    "ID": 17,
+    "Ten": "Rong Hải nga",
+    "TenKhoaHoc": "Anadyomene wriglitii",
+    "ChiID": 7
+  },
+  {
+    "ID": 16,
+    "Ten": "Rong Hải nga xếp",
+    "TenKhoaHoc": "Anadyomene plicata",
+    "ChiID": 7
+  },
+  {
+    "ID": 15,
+    "Ten": "Rong Tán ô",
+    "TenKhoaHoc": "Acetabularia parvula",
+    "ChiID": 6
+  },
+  {
+    "ID": 14,
+    "Ten": "Rong Tán ô",
+    "TenKhoaHoc": "Acetabularia moebii",
+    "ChiID": 6
+  },
+  {
+    "ID": 13,
+    "Ten": "Rong Tán ô",
+    "TenKhoaHoc": "Acetabularia major",
+    "ChiID": 6
+  },
+  {
+    "ID": 12,
+    "Ten": "Rong Tán ô",
+    "TenKhoaHoc": "Acetabularia caliculus",
+    "ChiID": 6
+  }
+]
